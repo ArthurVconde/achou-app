@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "OFICINA MECÂNICA BOM PASTOR",
+        "endereco": "Av. Centenário, 914 - Beira Rio, Cataguases - MG, 36772-350, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Oficina do Vasco Mecânica Leve e Pesada",
+        "endereco": "R. Antero Ribeiro, 460 - Popular, Cataguases - MG, 36774-560, Brazil",
+        "telefone": "(34215167)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234215167",
+        "aprovado": true
+    },
+    {
+        "nome": "Airan Centro Automotivo",
+        "endereco": "Av. João Inácio Peixoto, 288 - Granjaria, Cataguases - MG, 36773-560, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Automotiva Serviços",
+        "endereco": "R. Maurício Murgel, 89 - Vila Domingos Lopes, Cataguases - MG, 36774-028, Brazil",
+        "telefone": "(32022289)",
+        "site": "https://lojalocal.com/petronas/26989058000101",
+        "avaliacao": 5,
+        "horario": "07:30 as 18:00",
+        "whatsapp": "3232022289",
+        "aprovado": true
+    },
+    {
+        "nome": "Oficina do Adair",
+        "endereco": "R. Irmã Judite - Beira Rio, Cataguases - MG, 36772-024, Brazil",
+        "telefone": "(999421726)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "07:30 as 19:00",
+        "whatsapp": "32999421726",
+        "aprovado": true
+    },
+    {
+        "nome": "Weslei Car",
+        "endereco": "Av. Sizenando Dutra de Siqueira, 165 - Popular, Cataguases - MG, 36774-770, Brazil",
+        "telefone": "(984185830)",
+        "site": "https://www.facebook.com/pages/Weslei-Car/261803251245725",
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32984185830",
+        "aprovado": true
+    },
+    {
+        "nome": "Mecânica Jocel",
+        "endereco": "R. Nossa Sra. da Conceição, 353 - Vila Reis, Cataguases - MG, 36770-000, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Oficina do Neto Cataguases",
+        "endereco": "Av. Guido Marliere, 361 - Haidée, Cataguases - MG, 36774-104, Brazil",
+        "telefone": "(34223213)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234223213",
+        "aprovado": true
+    },
+    {
+        "nome": "Mecânica Machado",
+        "endereco": "Av. Veríssimo Mendonça, 1997 - Beira Rio, Cataguases - MG, 36772-022, Brazil",
+        "telefone": "(998188941)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "07:30 as 18:00",
+        "whatsapp": "32998188941",
+        "aprovado": true
+    },
+    {
+        "nome": "MÁXIMUS CENTRO AUTOMOTIVO",
+        "endereco": "R. Cleto da Rocha, 31 - Centro, Cataguases - MG, 36774-016, Brazil",
+        "telefone": "(34216629)",
+        "site": "https://maximuscentroautomotivo.com.br/",
+        "avaliacao": 4.9,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234216629",
+        "aprovado": true
+    },
+    {
+        "nome": "Auto Mecânica Thomé",
+        "endereco": "Av. Eudaldo Lessa, 650 - Popular, Cataguases - MG, 36774-552, Brazil",
+        "telefone": "(34227309)",
+        "site": null,
+        "avaliacao": 4.8,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234227309",
+        "aprovado": true
+    },
+    {
+        "nome": "Oficina Sidcar Cataguases",
+        "endereco": "R. Ten. Luís Ribeiro, 151 - Sebastião Adolfo, Cataguases - MG, 36774-034, Brazil",
+        "telefone": "(988989806)",
+        "site": null,
+        "avaliacao": 4.8,
+        "horario": "Não Informado",
+        "whatsapp": "32988989806",
+        "aprovado": true
+    },
+    {
+        "nome": "Jacaré Mecânica e Auto Peças",
+        "endereco": "R. Geraldo Costa Cruz, 84 A - Taquara Preta, Cataguases - MG, 36771-524, Brazil",
+        "telefone": "(34219715)",
+        "site": "https://linktr.ee/autopecasjacare",
+        "avaliacao": 4.7,
+        "horario": "08:00 as 11:00 e 01:00 as 18:00",
+        "whatsapp": "3234219715",
+        "aprovado": true
+    },
+    {
+        "nome": "Priscicar Escapamentos",
+        "endereco": "Av. Rotary, 435 - Centro, Cataguases - MG, 36770-067, Brazil",
+        "telefone": "(34221531)",
+        "site": null,
+        "avaliacao": 4.7,
+        "horario": "07:30 as 18:00",
+        "whatsapp": "3234221531",
+        "aprovado": true
+    },
+    {
+        "nome": "Oficina do Celinho",
+        "endereco": "R. João Pessoa, 145 - Vila Tereza, Cataguases - MG, 36772-020, Brazil",
+        "telefone": "(34212497)",
+        "site": null,
+        "avaliacao": 4.5,
+        "horario": "Não Informado",
+        "whatsapp": "3234212497",
+        "aprovado": true
+    },
+    {
+        "nome": "Auto Center",
+        "endereco": "R. Ananísia Fonseca, 50 - Centro, Cataguases - MG, 36770-074, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 4.4,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Mecânica 2 Irmãos Ltda",
+        "endereco": "Av. Veríssimo Mendonça, 1997 - Beira Rio, Cataguases - MG, 36772-022, Brazil",
+        "telefone": "(998408820)",
+        "site": null,
+        "avaliacao": 4.4,
+        "horario": "07:30 as 18:00",
+        "whatsapp": "32998408820",
+        "aprovado": true
+    },
+    {
+        "nome": "Oficina Mecânica Servicar",
+        "endereco": "Av. Guido Marliere, 583 - Haidée, Cataguases - MG, 36774-104, Brazil",
+        "telefone": "(34212381)",
+        "site": null,
+        "avaliacao": 4.4,
+        "horario": "Não Informado",
+        "whatsapp": "3234212381",
+        "aprovado": true
+    },
+    {
+        "nome": "Semave Auto Peças",
+        "endereco": "Av. Eudaldo Lessa, 125 - Popular, Cataguases - MG, 36774-552, Brazil",
+        "telefone": "(34215230)",
+        "site": null,
+        "avaliacao": 4.3,
+        "horario": "07:00 as 19:00",
+        "whatsapp": "3234215230",
+        "aprovado": true
+    },
+    {
+        "nome": "oficina mecânica do Ricardo",
+        "endereco": "Av. Guido Marliere, 587 - Menezes, Cataguases - MG, 36774-104, Brazil",
+        "telefone": "(999072111)",
+        "site": "https://www.instagram.com/oficinaricardoc/",
+        "avaliacao": 0,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32999072111",
+        "aprovado": true
+    }
+]

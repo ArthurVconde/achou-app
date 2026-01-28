@@ -1,0 +1,152 @@
+[
+    {
+        "nome": "Sertecon Contabilidade",
+        "endereco": "R. Dr. Sobral, 446 - Centro, Cataguases - MG, 36770-044, Brazil",
+        "telefone": "(34224015)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "07:30 as 17:30",
+        "whatsapp": "3234224015",
+        "aprovado": true
+    },
+    {
+        "nome": "Jocileia Contabilidade",
+        "endereco": "R. Dr. Sobral, N°445 - Sl 108 - Centro, Cataguases - MG, 36770-044, Brazil",
+        "telefone": "(34211209)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "07:00 as 17:30",
+        "whatsapp": "3234211209",
+        "aprovado": true
+    },
+    {
+        "nome": "Berto Contabilidade",
+        "endereco": "R. Rabêlo Horta, 104 - Centro, Cataguases - MG, 36770-064, Brazil",
+        "telefone": "(34212751)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": "3234212751",
+        "aprovado": true
+    },
+    {
+        "nome": "Bruna Campelo Contadora",
+        "endereco": "R. Moreira Lima, 69 - Vila Domingos Lopes, Cataguases - MG, 36774-020, Brazil",
+        "telefone": "(984215443)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "07:00 as 19:00",
+        "whatsapp": "32984215443",
+        "aprovado": true
+    },
+    {
+        "nome": "Contacon Contabilidade",
+        "endereco": "R. Maj. Viêira, 300 - Sala 19 - Centro, Cataguases - MG, 36770-060, Brazil",
+        "telefone": "(34227874)",
+        "site": "https://www.instagram.com/contacon_cataguases/",
+        "avaliacao": 5,
+        "horario": "08:00 as 17:00",
+        "whatsapp": "3234227874",
+        "aprovado": true
+    },
+    {
+        "nome": "Cronotec Contabilidade",
+        "endereco": "Praça Gov. Valadares, 81 - Sala 101 - Centro, Cataguases - MG, 36770-071, Brazil",
+        "telefone": "(34292855)",
+        "site": "https://api.whatsapp.com/send?phone=553234292855&text=Ol%C3%A1,%20gostaria%20de%20uma%20assist%C3%AAncia%20cont%C3%A1bil!",
+        "avaliacao": 5,
+        "horario": "08:00 as 11:00 e 01:00 as 17:00",
+        "whatsapp": "3234292855",
+        "aprovado": true
+    },
+    {
+        "nome": "Microcentro Contabilidade",
+        "endereco": "Rua Joaquim Peixoto Ramos, 59 - Centro, Cataguases - MG, 36770-066, Brazil",
+        "telefone": "(34213411)",
+        "site": "https://microcentrocontabilidade.com.br/",
+        "avaliacao": 5,
+        "horario": "07:00 as 17:00",
+        "whatsapp": "3234213411",
+        "aprovado": true
+    },
+    {
+        "nome": "Atual Contabilidade",
+        "endereco": "R. Dr. Sobral, 135 - Centro, Cataguases - MG, 36770-044, Brazil",
+        "telefone": "(34212555)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": "3234212555",
+        "aprovado": true
+    },
+    {
+        "nome": "Precisão Contabilidade e Gestão",
+        "endereco": "R. Nogueira Neves, 359 - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(34298800)",
+        "site": "http://www.precisaocataguases.com.br/",
+        "avaliacao": 4.9,
+        "horario": "07:30 as 17:00",
+        "whatsapp": "3234298800",
+        "aprovado": true
+    },
+    {
+        "nome": "Conseg Contabilidade",
+        "endereco": "R. Dr. Francisco de Barros, 232 - Centro, Cataguases - MG, 36770-022, Brazil",
+        "telefone": "(34215970)",
+        "site": null,
+        "avaliacao": 3.7,
+        "horario": "08:00 as 17:00",
+        "whatsapp": "3234215970",
+        "aprovado": true
+    },
+    {
+        "nome": "Prodacon Contabilidade",
+        "endereco": "R. Manoel da Silva Rama, 141 - Centro, Cataguases - MG, 36770-040, Brazil",
+        "telefone": "(34215119)",
+        "site": "https://prodaconcontabilidade.com.br/",
+        "avaliacao": "Sem avaliação",
+        "horario": "08:00 as 17:30",
+        "whatsapp": "3234215119",
+        "aprovado": true
+    },
+    {
+        "nome": "Milo Contabilidade & Consultoria",
+        "endereco": "R. Dr. Sobral - Centro, Cataguases - MG, 36770-044, Brazil",
+        "telefone": "(34212327)",
+        "site": "https://www.instagram.com/milocontabilidade/",
+        "avaliacao": "Sem avaliação",
+        "horario": "08:00 as 18:30",
+        "whatsapp": "3234212327",
+        "aprovado": true
+    },
+    {
+        "nome": "Contab",
+        "endereco": "Av. Humberto Mauro, 203 - sala 06 - Centro, Cataguases - MG, 36773-012, Brazil",
+        "telefone": "(999483300)",
+        "site": null,
+        "avaliacao": "Sem avaliação",
+        "horario": "08:00 as 11:00 e 01:00 as 17:00",
+        "whatsapp": "32999483300",
+        "aprovado": true
+    },
+    {
+        "nome": "Contamec Serviços Contábeis Ltda",
+        "endereco": "R. Manoel Barbosa Júnior, 99 - Beira Rio, Cataguases - MG, 36770-000, Brazil",
+        "telefone": "(34222387)",
+        "site": null,
+        "avaliacao": "Sem avaliação",
+        "horario": "08:00 as 17:00",
+        "whatsapp": "3234222387",
+        "aprovado": true
+    },
+    {
+        "nome": "Márcia Contabilidade",
+        "endereco": "Rua Joaquim Peixoto Ramos, 59 - Centro, Cataguases - MG, 36770-066, Brazil",
+        "telefone": "(34212311)",
+        "site": null,
+        "avaliacao": "Sem avaliação",
+        "horario": "09:00 as 11:00 e 01:00 as 17:00",
+        "whatsapp": "3234212311",
+        "aprovado": true
+    }
+]

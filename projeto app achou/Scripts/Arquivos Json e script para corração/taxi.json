@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "Táxi Carlos Mário",
+        "endereco": "R. Ostende Ribeiro - Bela Vista, Cataguases - MG, 36770-900, Brazil",
+        "telefone": "(999176471)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": "32999176471",
+        "aprovado": true
+    },
+    {
+        "nome": "Taxi cataguases (EVERTON)",
+        "endereco": "Praça Gov. Valadares - Centro, Cataguases - MG, 36770-000, Brazil",
+        "telefone": "(998843204)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "07:00 as 21:00",
+        "whatsapp": "32998843204",
+        "aprovado": true
+    },
+    {
+        "nome": "Táxi do Emmanuel",
+        "endereco": "Praça Rogério Teixeira - Centro, Cataguases - MG, 36770-058, Brazil",
+        "telefone": "(988617520)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Open 24 hours",
+        "whatsapp": "32988617520",
+        "aprovado": true
+    },
+    {
+        "nome": "Táxi do Pedro (Praça Santa Rita)",
+        "endereco": "Praça Santa Rita - Centro, Cataguases - MG, 36770-020, Brazil",
+        "telefone": "(999848199)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Open 24 hours",
+        "whatsapp": "32999848199",
+        "aprovado": true
+    },
+    {
+        "nome": "TÁXI DO DANIEL ( RODOVIÁRIA CATAGUASES-MG)",
+        "endereco": "R. Francisco Rossi - Centro, Cataguases - MG, 36770-048, Brazil",
+        "telefone": "(999807185)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Open 24 hours",
+        "whatsapp": "32999807185",
+        "aprovado": true
+    },
+    {
+        "nome": "Ponto de Táxi Calçadão",
+        "endereco": "R. Cel. João Duarte, 1-115 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": "(999575583)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Open 24 hours",
+        "whatsapp": "32999575583",
+        "aprovado": true
+    },
+    {
+        "nome": "Motorista Daniel Oliveira",
+        "endereco": "Av. Humberto Mauro, 116 - Centro, Cataguases - MG, 36773-012, Brazil",
+        "telefone": "(999968043)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "07:00 as 21:30",
+        "whatsapp": "32999968043",
+        "aprovado": true
+    },
+    {
+        "nome": "Táxi do Wanderson holls",
+        "endereco": "Praça Santa Rita - Centro, Cataguases - MG, 36770-020, Brazil",
+        "telefone": "(999656445)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Open 24 hours",
+        "whatsapp": "32999656445",
+        "aprovado": true
+    },
+    {
+        "nome": "Taxi Raquel (Ponto Bahamas)",
+        "endereco": "Praça Manoel Inácio Peixoto - Centro, Cataguases - MG, 36771-000, Brazil",
+        "telefone": "(999548789)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Open 24 hours",
+        "whatsapp": "32999548789",
+        "aprovado": true
+    },
+    {
+        "nome": "Taxi do Luiz de cataguases MG",
+        "endereco": "Praça governador valadares - Av. Astolfo Dutra - Centro, Cataguases - MG, 36770-006, Brazil",
+        "telefone": "(998409466)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": "32998409466",
+        "aprovado": true
+    },
+    {
+        "nome": "Taxi do Jefinho (Jefferson Silva)",
+        "endereco": "R. das Flôres, 26 - Horto Florestal, Cataguases - MG, 36773-462, Brazil",
+        "telefone": "(998130363)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "07:00 as 21:00",
+        "whatsapp": "32998130363",
+        "aprovado": true
+    },
+    {
+        "nome": "TÁXI DO RAFAEL (RODOVIARIA CATAGUASES)",
+        "endereco": "Praça Rogério Teixeira - Centro, Cataguases - MG, 36770-058, Brazil",
+        "telefone": "(999005077)",
+        "site": null,
+        "avaliacao": 4.9,
+        "horario": "Open 24 hours",
+        "whatsapp": "32999005077",
+        "aprovado": true
+    },
+    {
+        "nome": "Táxi do César",
+        "endereco": "Av. Guido Marliere, 222 - Ap101 - Haidée, Cataguases - MG, 36774-104, Brazil",
+        "telefone": "(999741007)",
+        "site": null,
+        "avaliacao": 4.7,
+        "horario": "07:00 as 18:00",
+        "whatsapp": "32999741007",
+        "aprovado": true
+    },
+    {
+        "nome": "Adeilton Moto táxi e Moto boy em Cataguases",
+        "endereco": "Praça Rui Barbosa - Centro, Cataguases - MG, 36770-034, Brazil",
+        "telefone": "(999157899)",
+        "site": "https://www.instagram.com/adeilton.freitas.7/",
+        "avaliacao": 4.6,
+        "horario": "08:00 as 23:00",
+        "whatsapp": "32999157899",
+        "aprovado": true
+    },
+    {
+        "nome": "Ponto Táxi Praça Getúlio Vargas",
+        "endereco": "Praca Presidente Getúlio Vargas, s/n - Centro, Cataguases - MG, 36770-069, Brazil",
+        "telefone": "(34211070)",
+        "site": null,
+        "avaliacao": 4.5,
+        "horario": "Não Informado",
+        "whatsapp": "3234211070",
+        "aprovado": true
+    },
+    {
+        "nome": "Taxi stand",
+        "endereco": "Praca Doutor Augusto Cunha Neto, s/n - FE10, Cataguases - MG, 36773-006, Brazil",
+        "telefone": "(984059748)",
+        "site": null,
+        "avaliacao": 4.3,
+        "horario": "06:00 as 19:00",
+        "whatsapp": "32984059748",
+        "aprovado": true
+    },
+    {
+        "nome": "Ponto de táxi da Rodoviária",
+        "endereco": "Praça Rogério Teixeira - Centro, Cataguases - MG, 36770-058, Brazil",
+        "telefone": "(34211580)",
+        "site": null,
+        "avaliacao": 3.7,
+        "horario": "Open 24 hours",
+        "whatsapp": "3234211580",
+        "aprovado": true
+    },
+    {
+        "nome": "Ponto de Táxi Praça Rui Barbosa",
+        "endereco": "Praca Rui Barbosa, s/n - Centro, Cataguases - MG, 36770-034, Brazil",
+        "telefone": "(34211090)",
+        "site": null,
+        "avaliacao": 3.5,
+        "horario": "Não Informado",
+        "whatsapp": "3234211090",
+        "aprovado": true
+    },
+    {
+        "nome": "Táxi 24 horas",
+        "endereco": "Praça Rui Barbosa - Centro, Cataguases - MG, 36770-000, Brazil",
+        "telefone": "(985071353)",
+        "site": null,
+        "avaliacao": 2,
+        "horario": "Não Informado",
+        "whatsapp": "32985071353",
+        "aprovado": true
+    },
+    {
+        "nome": "Taxi Jurandir Teixeira",
+        "endereco": "Praça Santa Rita - Centro, Cataguases - MG, 36770-000, Brazil",
+        "telefone": "(988077140)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "Não Informado",
+        "whatsapp": "32988077140",
+        "aprovado": true
+    }
+]

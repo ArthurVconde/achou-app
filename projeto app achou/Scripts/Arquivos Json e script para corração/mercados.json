@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "Supermercado Morais",
+        "endereco": "Av. Manoel Inácio Peixoto  45 - Distrito Industrial  Cataguases - MG  36771-000  Brazil",
+        "telefone": "(3470-0116)",
+        "site": "http://supermercadomorais.com.br/",
+        "avaliacao": 4.8,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234700116"
+    },
+    {
+        "nome": "Empório H2O",
+        "endereco": "v - Av. João Inácio Peixoto  161 - Loja B - Granjaria  Cataguases - MG  36773-560  Brazil",
+        "telefone": "(99962-7426)",
+        "site": "https://linktr.ee/emporioh2o",
+        "avaliacao": 4.7,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "32999627426"
+    },
+    {
+        "nome": "Supermercados BH - Atacado e Varejo",
+        "endereco": "Av. Sizenando Dutra de Siqueira  800 - Popular  Cataguases - MG  36774-770  Brazil",
+        "telefone": "(3142-0051)",
+        "site": "https://www.supermercadosbh.com.br/",
+        "avaliacao": 4.6,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3231420051"
+    },
+    {
+        "nome": "Horticentro Cataguases",
+        "endereco": "R. Nogueira Neves  155 - Centro  Cataguases - MG  36770-070  Brazil",
+        "telefone": "(3422-8534)",
+        "site": null,
+        "avaliacao": 4.6,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234228534"
+    },
+    {
+        "nome": "Mercado Mais Econômico",
+        "endereco": "Av. Manoel Inácio Peixoto  2125 - Distrito Industrial  Cataguases - MG  36771-396  Brazil",
+        "telefone": "(3421-2943)",
+        "site": null,
+        "avaliacao": 4.6,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234212943"
+    },
+    {
+        "nome": "Padaria Pão Nosso",
+        "endereco": "R. Maj. Viêira  4 - Centro  Cataguases - MG  36770-028  Brazil",
+        "telefone": "(3421-9784)",
+        "site": null,
+        "avaliacao": 4.6,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234219784"
+    },
+    {
+        "nome": "Supermercado Morais",
+        "endereco": "Av. Astolfo Dutra - Centro  Cataguases - MG  36770-022  Brazil",
+        "telefone": "(3422-8455)",
+        "site": "https://www.supermercadomorais.com.br/",
+        "avaliacao": 4.5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234228455"
+    },
+    {
+        "nome": "Supermercados BH",
+        "endereco": "Praça Gov. Valadares  225 - Centro  Cataguases - MG  36770-071  Brazil",
+        "telefone": "(3117-2600)",
+        "site": "https://www.supermercadosbh.com.br/",
+        "avaliacao": 4.5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3231172600"
+    },
+    {
+        "nome": "Supermercado Morais",
+        "endereco": "Av. Eudaldo Lessa  295 - Popular  Cataguases - MG  36774-552  Brazil",
+        "telefone": "(3422-1196)",
+        "site": "https://www.supermercadomorais.com.br/",
+        "avaliacao": 4.5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234221196"
+    },
+    {
+        "nome": "Supermercado Oliveira Ramos",
+        "endereco": "R. Francisco Antônio Leonardo  418 - Haidée  Cataguases - MG  36774-102  Brazil",
+        "telefone": "(3421-6151)",
+        "site": null,
+        "avaliacao": 4.5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234216151"
+    },
+    {
+        "nome": "Casa Mattos Matriz: Materiais de construção  Pisos  Louças e Metais",
+        "endereco": "R. Dr. Francisco de Barros  261 - Centro  Cataguases - MG  36770-022  Brazil",
+        "telefone": "(3429-3300)",
+        "site": "http://www.casamattos.com.br/",
+        "avaliacao": 4.5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234293300"
+    },
+    {
+        "nome": "Supermercado Família Centro",
+        "endereco": "Rua Joaquim Peixoto Ramos  89 - Centro  Cataguases - MG  36770-066  Brazil",
+        "telefone": "(3422-5761)",
+        "site": "https://instagram.com/supermercadofamiliacentro?igshid=1g0mb9vlydu7v",
+        "avaliacao": 4.4,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234225761"
+    },
+    {
+        "nome": "Mercado Vila Verde (Mercado do Português)",
+        "endereco": "Av. José Costa Cruz  247 - Taquara Preta  Cataguases - MG  36771-536  Brazil",
+        "telefone": "(3421-3790)",
+        "site": "https://www.instagram.com/mercadovilaverde/",
+        "avaliacao": 4.4,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234213790"
+    },
+    {
+        "nome": "Bahamas Cataguases Centro",
+        "endereco": "Praça Manoel Inácio Peixoto  96 - Centro  Cataguases - MG  36770-071  Brazil",
+        "telefone": "(2104-4815)",
+        "site": "https://bahamas.com.br/unidades/bahamas-cataguases/",
+        "avaliacao": 4.3,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3221044815"
+    },
+    {
+        "nome": "Supermarket Bahamas Mix",
+        "endereco": "Av. Veríssimo Mendonça  255 - Beira Rio  Cataguases - MG  36772-022  Brazil",
+        "telefone": "(2104-9511)",
+        "site": "https://bahamasmix.com.br/",
+        "avaliacao": 4.3,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3221049511"
+    },
+    {
+        "nome": "Supermercado Granjaria",
+        "endereco": "Av. Cel. Artur Cruz  479 - Granjaria  Cataguases - MG  36773-569  Brazil",
+        "telefone": "(3421-8496)",
+        "site": null,
+        "avaliacao": 4.2,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234218496"
+    },
+    {
+        "nome": "Mercado Beija Flor Vila Reis",
+        "endereco": "R. Leogédio Carlos da Silva - Vila Reis  Cataguases - MG  36770-220  Brazil",
+        "telefone": "(3421-7544)",
+        "site": null,
+        "avaliacao": 4.2,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234217544"
+    },
+    {
+        "nome": "Sacolão Familia Do Centro",
+        "endereco": "R. Ten. Fortunato  96 - Centro  Cataguases - MG  36770-038  Brazil",
+        "telefone": "(3422-5761)",
+        "site": null,
+        "avaliacao": 4,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234225761"
+    },
+    {
+        "nome": "Mercearia du Bairro",
+        "endereco": "Av. José Leonardo  326 - Leonardo  Cataguases - MG  36773-626  Brazil",
+        "telefone": "(3421-5458)",
+        "site": null,
+        "avaliacao": 4,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234215458"
+    },
+    {
+        "nome": "Drogasil",
+        "endereco": "R. Ten. Fortunato  106 - Centro  Cataguases - MG  36770-038  Brazil",
+        "telefone": "(99931-1581)",
+        "site": null,
+        "avaliacao": 3.7,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "32999311581"
+    }
+]

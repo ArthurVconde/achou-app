@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "Restaurante Cantinho na Roça",
+        "endereco": "Estrada Roda D Agua - Aracati de Minas  Cataguases - MG  36776-000  Brazil",
+        "telefone": "(99821-4592)",
+        "site": "https://www.instagram.com/rcantinhonaroca/",
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": "32998214592",
+        "aprovado": true
+    },
+    {
+        "nome": "RESTAURANTE PIZZARIA CHOPERIA DOM CARUSO",
+        "endereco": "R. Dr. Francisco de Barros - Centro  Cataguases - MG  36770-022  Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Johnnie Grill - Cataguases",
+        "endereco": "R. Luiz Pinto da Silva  309 - Vila Minalda  Cataguases - MG  36772-406  Brazil",
+        "telefone": "(3422-0485)",
+        "site": "https://menu.brendi.com.br/johnnie-grill-cataguases-cataguases/",
+        "avaliacao": 4.9,
+        "horario": "Não Informado",
+        "whatsapp": "3234220485",
+        "aprovado": true
+    },
+    {
+        "nome": "Food House",
+        "endereco": "R. Dr. Francisco de Barros  11 - Centro  Cataguases - MG  36770-022  Brazil",
+        "telefone": "(3470-1305)",
+        "site": null,
+        "avaliacao": 4.9,
+        "horario": "Não Informado",
+        "whatsapp": "3234701305",
+        "aprovado": true
+    },
+    {
+        "nome": "Ignorante Lanches - Cataguases",
+        "endereco": "R. Luiz Pinto da Silva  309 - Vila Minalda  Cataguases - MG  36772-406  Brazil",
+        "telefone": "(98477-7245)",
+        "site": "https://menu.brendi.com.br/ignorante-lanches-cataguases-vila-minalda/",
+        "avaliacao": 4.8,
+        "horario": "Não Informado",
+        "whatsapp": "32984777245",
+        "aprovado": true
+    },
+    {
+        "nome": "A Casa Bistrô",
+        "endereco": "R. Maj. Viêira  196 - Centro  Cataguases - MG  36770-060  Brazil",
+        "telefone": "(99945-2726)",
+        "site": "https://instagram.com/acasa.cataguases?igshid=MzRlODBiNWFlZA==",
+        "avaliacao": 4.8,
+        "horario": "Não Informado",
+        "whatsapp": "32999452726",
+        "aprovado": true
+    },
+    {
+        "nome": "Restaurante e Churrascaria Vila Pilão",
+        "endereco": "R. Ten. Luís Ribeiro  54 - Vila Domingos Lopes  Cataguases - MG  36774-034  Brazil",
+        "telefone": "(99996-2129)",
+        "site": null,
+        "avaliacao": 4.7,
+        "horario": "Não Informado",
+        "whatsapp": "32999962129",
+        "aprovado": true
+    },
+    {
+        "nome": "Chalé do Celso",
+        "endereco": "R. Nossa Sra. das Dores  200 - Granjaria  Cataguases - MG  36773-450  Brazil",
+        "telefone": "(3422-1571)",
+        "site": null,
+        "avaliacao": 4.7,
+        "horario": "Não Informado",
+        "whatsapp": "3234221571",
+        "aprovado": true
+    },
+    {
+        "nome": "Santa Esquina Lounge Bar",
+        "endereco": "R. Pascoal Ciodario  160 - Paraíso  Cataguases - MG  36772-150  Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 4.7,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Super Nutre",
+        "endereco": "R. Maj. Viêira  514 - Centro  Cataguases - MG  36770-060  Brazil",
+        "telefone": "(3422-1418)",
+        "site": null,
+        "avaliacao": 4.6,
+        "horario": "Não Informado",
+        "whatsapp": "3234221418",
+        "aprovado": true
+    },
+    {
+        "nome": "JEANS BAR",
+        "endereco": "R. Ten. Luís Ribeiro  563 - Vila Domingos Lopes  Cataguases - MG  36774-034  Brazil",
+        "telefone": "(99932-0457)",
+        "site": null,
+        "avaliacao": 4.6,
+        "horario": "Não Informado",
+        "whatsapp": "32999320457",
+        "aprovado": true
+    },
+    {
+        "nome": "Churrascaria Carusinho",
+        "endereco": "R. Dr. Sobral  357 - Centro  Cataguases - MG  36770-044  Brazil",
+        "telefone": "(3421-4882)",
+        "site": null,
+        "avaliacao": 4.6,
+        "horario": "Não Informado",
+        "whatsapp": "3234214882",
+        "aprovado": true
+    },
+    {
+        "nome": "DAngelo",
+        "endereco": "Av. Astolfo Dutra  105 - Centro  Cataguases - MG  36770-001  Brazil",
+        "telefone": "(3421-1063)",
+        "site": null,
+        "avaliacao": 4.5,
+        "horario": "Não Informado",
+        "whatsapp": "3234211063",
+        "aprovado": true
+    },
+    {
+        "nome": "Sabor do Churrasco",
+        "endereco": "Rua Joaquim Peixoto Ramos  207-287 - Centro  Cataguases - MG  36770-066  Brazil",
+        "telefone": "(99940-2879)",
+        "site": null,
+        "avaliacao": 4.5,
+        "horario": "Não Informado",
+        "whatsapp": "32999402879",
+        "aprovado": true
+    },
+    {
+        "nome": "Restaurante e pizzaria Iguaria Gourmet",
+        "endereco": "Praça Sandoval de Azevedo  62 - Centro  Cataguases - MG  36770-052  Brazil",
+        "telefone": "(3422-4786)",
+        "site": "https://pt-br.facebook.com/pages/Iguaria-Gourmet/109143239178562",
+        "avaliacao": 4.4,
+        "horario": "Não Informado",
+        "whatsapp": "3234224786",
+        "aprovado": true
+    },
+    {
+        "nome": "Trattoria Mineira",
+        "endereco": "Praça Jaci de Abreu Lopes  32 - Menezes  Cataguases - MG  36774-126  Brazil",
+        "telefone": "(3421-6479)",
+        "site": null,
+        "avaliacao": 4.4,
+        "horario": "Não Informado",
+        "whatsapp": "3234216479",
+        "aprovado": true
+    },
+    {
+        "nome": "Churrascaria Caruso",
+        "endereco": "R. Cleto da Rocha  263 - Centro  Cataguases - MG  36770-067  Brazil",
+        "telefone": "(93421-7649)",
+        "site": null,
+        "avaliacao": 4.4,
+        "horario": "Não Informado",
+        "whatsapp": "32934217649",
+        "aprovado": true
+    },
+    {
+        "nome": "Restaurante Dom Caruso",
+        "endereco": "Centro 157 - Av. Rotary - Centro  Cataguases - MG  36770-067  Brazil",
+        "telefone": "(3421-6427)",
+        "site": "https://www.facebook.com/pages/Dom-Caruso/351063998316843",
+        "avaliacao": 4.4,
+        "horario": "Não Informado",
+        "whatsapp": "3234216427",
+        "aprovado": true
+    },
+    {
+        "nome": "Panetteria da Pracinha",
+        "endereco": "Praça Sandoval de Azevedo - Centro  Cataguases - MG  36770-046  Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 4.4,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Restaurante Girassol de Cataguases",
+        "endereco": "Praça Gov. Valadares  76 - Centro  Cataguases - MG  36770-071  Brazil",
+        "telefone": "(2421-0200)",
+        "site": "https://restaurante-girassol.ola.click/products",
+        "avaliacao": 4.4,
+        "horario": "Não Informado",
+        "whatsapp": "3224210200",
+        "aprovado": true
+    }
+]

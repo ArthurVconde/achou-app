@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Sushi Kta",
+        "endereco": "Av. João Inácio Peixoto, 427 - Granjaria, Cataguases - MG, 36773-560, Brazil",
+        "telefone": "(34223992)",
+        "site": "https://pedido.takeat.app/sushikta",
+        "avaliacao": 4.7,
+        "horario": "06:30 as 23:00",
+        "whatsapp": "3234223992",
+        "aprovado": true
+    },
+    {
+        "nome": "Sabor Oriental",
+        "endereco": "Av. Astolfo Dutra, 487 - Centro, Cataguases - MG, 36770-001, Brazil",
+        "telefone": "(999692158)",
+        "site": null,
+        "avaliacao": 4.5,
+        "horario": "07:00 as 22:40",
+        "whatsapp": "32999692158",
+        "aprovado": true
+    },
+    {
+        "nome": "Japa Brasil",
+        "endereco": "R. Maj. Viêira, 233 - Centro, Cataguases - MG, 36770-060, Brazil",
+        "telefone": "(32022430)",
+        "site": "https://www.japabrasil.com.br/",
+        "avaliacao": 4.2,
+        "horario": "06:00 as 22:30",
+        "whatsapp": "3232022430",
+        "aprovado": true
+    },
+    {
+        "nome": "Hiroki Sushi",
+        "endereco": "R. das Paineiras, 180 - Morada da Serra, Cataguases - MG, 36773-016, Brazil",
+        "telefone": "(999933080)",
+        "site": "https://pedido.anota.ai/loja/hiroki-sushi?f=msa",
+        "avaliacao": 4.1,
+        "horario": "06:00 as 23:00",
+        "whatsapp": "32999933080",
+        "aprovado": true
+    },
+    {
+        "nome": "Japatê | Cataguases",
+        "endereco": "Praça Santa Rita, 14, Pavimento 1 - Centro, Cataguases - MG, 36770-020, Brazil",
+        "telefone": "(34212041)",
+        "site": "http://www.japate.com.br/",
+        "avaliacao": 4,
+        "horario": "06:00 as 23:00",
+        "whatsapp": "3234212041",
+        "aprovado": true
+    }
+]

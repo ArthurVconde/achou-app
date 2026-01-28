@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "Redsete",
+        "endereco": "R. Nogueira Neves, 359 - 3º andar - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(34211797)",
+        "site": "http://www.redsete.com/",
+        "avaliacao": 5,
+        "horario": "08:00 as 20:00",
+        "whatsapp": "3234211797",
+        "aprovado": true
+    },
+    {
+        "nome": "CARMNO®",
+        "endereco": "Praça Santa Rita, 54 - Centro, Cataguases - MG, 36770-020, Brazil",
+        "telefone": "(999785011)",
+        "site": "http://www.carmno.com.br/",
+        "avaliacao": 5,
+        "horario": "09:00 as 17:00",
+        "whatsapp": "32999785011",
+        "aprovado": true
+    },
+    {
+        "nome": "Personnalite Gráfica e Comunicação Visual",
+        "endereco": "R. Maj. Viêira, 129 - Loja 4 - Centro, Cataguases - MG, 36770-060, Brazil",
+        "telefone": "(34212400)",
+        "site": "http://www.instagram.com/personnalitegrafica",
+        "avaliacao": 5,
+        "horario": "09:00 as 18:00",
+        "whatsapp": "3234212400",
+        "aprovado": true
+    },
+    {
+        "nome": "Macapá Gráfica",
+        "endereco": "R. João Pessoa, 117 - Vila Tereza, Cataguases - MG, 36772-020, Brazil",
+        "telefone": "(34221131)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "07:00 as 12:00 e 01:00 as 18:00",
+        "whatsapp": "3234221131",
+        "aprovado": true
+    },
+    {
+        "nome": "Agência GHZ",
+        "endereco": "Av. Humberto Mauro, 203 - Sala 05 - Centro, Cataguases - MG, 36773-012, Brazil",
+        "telefone": "(984741460)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "09:00 as 18:00",
+        "whatsapp": "32984741460",
+        "aprovado": true
+    },
+    {
+        "nome": "ktauai",
+        "endereco": "Calçadão Shopping - R. Cel. João Duarte, 64 - sala101 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": "(984129336)",
+        "site": "https://ktauai.com/",
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32984129336",
+        "aprovado": true
+    },
+    {
+        "nome": "Agência de Marketing | Marketing Digital | Profissional de Marketing Isadora Pacheco",
+        "endereco": "R. Francisco Antônio Leonardo, 56 - Haidée, Cataguases - MG, 36774-102, Brazil",
+        "telefone": "(999961928)",
+        "site": "https://isadorapacheco.com/",
+        "avaliacao": 5,
+        "horario": "08:00 as 17:30",
+        "whatsapp": "32999961928",
+        "aprovado": true
+    },
+    {
+        "nome": "Felipe Poncelas",
+        "endereco": "Rua José de Almeida Kneipp - 266 1º Andar - Vila Tereza, Cataguases - MG, 36772-018, Brazil",
+        "telefone": "(991682590)",
+        "site": null,
+        "avaliacao": 4.9,
+        "horario": "09:00 as 17:00",
+        "whatsapp": "32991682590",
+        "aprovado": true
+    },
+    {
+        "nome": "Brasiletras",
+        "endereco": "R. Maria Gouvêia Ferraz, 367 - Paraíso, Cataguases - MG, 36772-154, Brazil",
+        "telefone": "(34221121)",
+        "site": "https://www.grupodenha.com.br/",
+        "avaliacao": 4.9,
+        "horario": "07:00 as 17:00",
+        "whatsapp": "3234221121",
+        "aprovado": true
+    },
+    {
+        "nome": "Gráfica Líder- Logo em acrílico, Toldos, Letreiros, Uniformes em geral, etc.",
+        "endereco": "R. Wanderley Quirino da Silva, 180 - Popular, Cataguases - MG, 36774-561, Brazil",
+        "telefone": "(34214358)",
+        "site": "https://keepo.io/graficalidernet/",
+        "avaliacao": 4.6,
+        "horario": "07:15 as 17:30",
+        "whatsapp": "3234214358",
+        "aprovado": true
+    },
+    {
+        "nome": "Cobolware Lan House e Serviços Personalizados",
+        "endereco": "R. Cel. João Duarte, 39 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": "(34223947)",
+        "site": null,
+        "avaliacao": 4.5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234223947",
+        "aprovado": true
+    },
+    {
+        "nome": "Visual Impressão",
+        "endereco": "Av. Meia Pataca, 170 - Centro, Cataguases - MG, 36770-056, Brazil",
+        "telefone": "(34220976)",
+        "site": "http://www.visualimpressao.com.br/",
+        "avaliacao": 4.4,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234220976",
+        "aprovado": true
+    },
+    {
+        "nome": "Modelo Gráfica e Editora",
+        "endereco": "Av. José Leonardo, 288 - Leonardo, Cataguases - MG, 36773-626, Brazil",
+        "telefone": "(34215058)",
+        "site": null,
+        "avaliacao": 4,
+        "horario": "07:12 as 11:30 e 01:00 as 17:30",
+        "whatsapp": "3234215058",
+        "aprovado": true
+    },
+    {
+        "nome": "Rogério Araújo | Mídia Digital & Gráfica",
+        "endereco": "Av. Manoel Inácio Peixoto, 1807 - Distrito Industrial, Cataguases - MG, 36771-000, Brazil",
+        "telefone": "(999318385)",
+        "site": null,
+        "avaliacao": "Sem avaliação",
+        "horario": "11:30 as 13:00 e 05:00 as 21:00",
+        "whatsapp": "32999318385",
+        "aprovado": true
+    },
+    {
+        "nome": "ROX Comunicacão",
+        "endereco": "R. Visc. do Rio Branco, 32 - Centro, Cataguases - MG, 36774-000, Brazil",
+        "telefone": "(999997499)",
+        "site": "http://www.facebook.com/roxcomunicacao",
+        "avaliacao": "Sem avaliação",
+        "horario": "09:00 as 19:00",
+        "whatsapp": "32999997499",
+        "aprovado": true
+    },
+    {
+        "nome": "DJ Designer",
+        "endereco": "R. Itacolomi, 236 - Haidée, Cataguases - MG, 36774-096, Brazil",
+        "telefone": "(991104668)",
+        "site": "http://djdesigner.servicosgold.com.br/",
+        "avaliacao": "Sem avaliação",
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32991104668",
+        "aprovado": true
+    },
+    {
+        "nome": "Cardoso Design",
+        "endereco": "R. Manoel Barbosa, 238 - Ap 302 - Ibraim Mandonça, Cataguases - MG, 36771-124, Brazil",
+        "telefone": "(999378590)",
+        "site": null,
+        "avaliacao": "Sem avaliação",
+        "horario": "07:00 as 19:30",
+        "whatsapp": "32999378590",
+        "aprovado": true
+    },
+    {
+        "nome": "Wicked Store Artes",
+        "endereco": "R. Itacolomi - Haidée, Cataguases - MG, 36774-096, Brazil",
+        "telefone": "(34215486)",
+        "site": "https://www.elo7.com.br/WickedStoreArtes",
+        "avaliacao": "Sem avaliação",
+        "horario": "09:00 as 21:00",
+        "whatsapp": "3234215486",
+        "aprovado": true
+    },
+    {
+        "nome": "Gráfica Precisão",
+        "endereco": "Av. Centenário, 332 - Bom Pastor, Cataguases - MG, 36772-350, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": "Sem avaliação",
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Aline Artes Gráficas",
+        "endereco": "R. Álvaro França, 424 - Sol Nascente, Cataguases - MG, 36774-406, Brazil",
+        "telefone": "(999184345)",
+        "site": null,
+        "avaliacao": "Sem avaliação",
+        "horario": "08:00 as 11:00",
+        "whatsapp": "32999184345",
+        "aprovado": true
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "MicroService Eletrônica e Computadores",
+        "endereco": "Av. Rotary - Edificio Athenas - CEP:, 83 - loja 30 - Centro, Cataguases - MG, 36770-067, Brazil",
+        "telefone": "(988342643)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32988342643",
+        "aprovado": true
+    },
+    {
+        "nome": "Mega Informática",
+        "endereco": "R. Manoel da Silva Rama, 55B - Centro, Cataguases - MG, 36770-040, Brazil",
+        "telefone": "(999843006)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32999843006",
+        "aprovado": true
+    },
+    {
+        "nome": "Info-Tec Informática",
+        "endereco": "Av. Veríssimo Mendonça, 428 - Beira Rio, Cataguases - MG, 36772-022, Brazil",
+        "telefone": "(34221134)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:15 as 18:30",
+        "whatsapp": "3234221134",
+        "aprovado": true
+    },
+    {
+        "nome": "FCM Informática e Segurança Eletrônica",
+        "endereco": "R. José Godinho, 395 - Menezes, Cataguases - MG, 36774-128, Brazil",
+        "telefone": "(984481457)",
+        "site": "http://www.facebook.com/FCMinfo",
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32984481457",
+        "aprovado": true
+    },
+    {
+        "nome": "Minas Tech Informática",
+        "endereco": "R. Gama Cerqueira, 288 - Haidée, Cataguases - MG, 36774-041, Brazil",
+        "telefone": "(34228711)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "09:00 as 18:00",
+        "whatsapp": "3234228711",
+        "aprovado": true
+    },
+    {
+        "nome": "Zé Ronaldo Celulares",
+        "endereco": "R. Nogueira Neves, 29 - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(999226322)",
+        "site": "https://www.instagram.com/zeronaldocelulares/",
+        "avaliacao": 5,
+        "horario": "07:30 as 18:30",
+        "whatsapp": "32999226322",
+        "aprovado": true
+    },
+    {
+        "nome": "Itech Solutions Cataguases",
+        "endereco": "Praça Gov. Valadares, 81 - Loja 03 - Centro, Cataguases - MG, 36770-071, Brazil",
+        "telefone": "(998670369)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "09:00 as 18:00",
+        "whatsapp": "32998670369",
+        "aprovado": true
+    },
+    {
+        "nome": "M.F.C INFORMÁTICA",
+        "endereco": "R. Marlene - Dico Leite, Cataguases - MG, 36772-456, Brazil",
+        "telefone": "(998463727)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 17:00",
+        "whatsapp": "32998463727",
+        "aprovado": true
+    },
+    {
+        "nome": "Infocat Computadores Com e Assist Téc Ltda",
+        "endereco": "R. Nogueira Neves, 144 - Centro, Cataguases - MG, 36770-000, Brazil",
+        "telefone": "(34213772)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": "3234213772",
+        "aprovado": true
+    },
+    {
+        "nome": "cartuchos central",
+        "endereco": "Rua Joaquim Peixoto Ramos, 42 - Centro, Cataguases - MG, 36770-066, Brazil",
+        "telefone": "(34218991)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234218991",
+        "aprovado": true
+    },
+    {
+        "nome": "BH PLUS ASSISTÊNCIA TÉCNICA DE CELULAR - CALÇADÃO - CATAGUASES",
+        "endereco": "Calçadão, em frente a Edmil - R. Cel. João Duarte, 48 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": "(984517370)",
+        "site": null,
+        "avaliacao": 4.9,
+        "horario": "08:00 as 18:30",
+        "whatsapp": "32984517370",
+        "aprovado": true
+    },
+    {
+        "nome": "Vip Computadores",
+        "endereco": "R. Nogueira Neves, 88 - Loja 01 - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(34221115)",
+        "site": "https://www.facebook.com/VipComputadores/",
+        "avaliacao": 4.8,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234221115",
+        "aprovado": true
+    },
+    {
+        "nome": "Expert Informática - Manutenção e Assistência técnica de computadores, notebooks e monitores",
+        "endereco": "R. Ananísia Fonseca, 65 - Centro, Cataguases - MG, 36770-074, Brazil",
+        "telefone": "(34219859)",
+        "site": "http://expertinformaticacataguases.wordpress.com/",
+        "avaliacao": 4.8,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234219859",
+        "aprovado": true
+    },
+    {
+        "nome": "World Toner",
+        "endereco": "R. Cel. João Duarte, 39 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": "(34215628)",
+        "site": null,
+        "avaliacao": 4.8,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234215628",
+        "aprovado": true
+    },
+    {
+        "nome": "Support Informática - Cataguases",
+        "endereco": "R. Paulino Fernandes, 75 - Centro, Cataguases - MG, 36770-024, Brazil",
+        "telefone": "(34225898)",
+        "site": "https://wa.me/553291466968",
+        "avaliacao": 4.5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234225898",
+        "aprovado": true
+    },
+    {
+        "nome": "Cartuchos Cataguases",
+        "endereco": "R. Francisco Antônio Leonardo, 89 - Haidée, Cataguases - MG, 36774-102, Brazil",
+        "telefone": "(34227078)",
+        "site": null,
+        "avaliacao": 4.4,
+        "horario": "08:00 as 18:30",
+        "whatsapp": "3234227078",
+        "aprovado": true
+    },
+    {
+        "nome": "Ksa do Celular",
+        "endereco": "R. Nogueira Neves, 43 - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(34227767)",
+        "site": null,
+        "avaliacao": 4.2,
+        "horario": "08:00 as 18:30",
+        "whatsapp": "3234227767",
+        "aprovado": true
+    },
+    {
+        "nome": "Master Infor Informatica",
+        "endereco": "Av. Centenário, 165A - Bom Pastor, Cataguases - MG, 36772-350, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 0,
+        "horario": "07:00 as 18:00",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "informática Santana",
+        "endereco": "Av. Centenário - Bom Pastor, Cataguases - MG, 36772-350, Brazil",
+        "telefone": "(998222432)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32998222432",
+        "aprovado": true
+    },
+    {
+        "nome": "B-SHOP Informática",
+        "endereco": "R. Ananísia Fonseca - Centro, Cataguases - MG, 36770-074, Brazil",
+        "telefone": "(998333120)",
+        "site": "https://www.instagram.com/bshop_info/",
+        "avaliacao": 0,
+        "horario": "Open 24 hours",
+        "whatsapp": "32998333120",
+        "aprovado": true
+    }
+]

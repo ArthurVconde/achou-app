@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "Escola Municipal Turminha da Mônica",
+        "endereco": "R. Édson Fabrino, 1 - Pouso Alegre, Cataguases - MG, 36774-332, Brazil",
+        "telefone": "(34292573)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "07:00 as 17:30",
+        "whatsapp": "3234292573",
+        "aprovado": true
+    },
+    {
+        "nome": "Escola Técnica Municipal Joana D'arc",
+        "endereco": "R. José Gustavo Coheo, 2-130 - Vila Tereza, Cataguases - MG, 36772-014, Brazil",
+        "telefone": "(34292516)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "06:00 as 22:00",
+        "whatsapp": "3234292516",
+        "aprovado": true
+    },
+    {
+        "nome": "Centro Educacional Cataguases",
+        "endereco": "R. Pedro Dutra, 280 - Bela Vista, Cataguases - MG, 36770-166, Brazil",
+        "telefone": "(34213262)",
+        "site": null,
+        "avaliacao": 4.8,
+        "horario": "07:00 as 21:00",
+        "whatsapp": "3234213262",
+        "aprovado": true
+    },
+    {
+        "nome": "SENAI CFP Cataguases José Ignacio Peixoto",
+        "endereco": "R. Gama Cerqueira, 281 - Haidée, Cataguases - MG, 36770-000, Brazil",
+        "telefone": "(34298100)",
+        "site": "https://www.fiemg.com.br/unidades/senai-cataguases-cfp-jose-ignacio-peixoto/",
+        "avaliacao": 4.8,
+        "horario": "08:00 as 22:00",
+        "whatsapp": "3234298100",
+        "aprovado": true
+    },
+    {
+        "nome": "ESCOLA SESI CATAGUASES",
+        "endereco": "R. Ofélia Resende, 101 - Menezes, Cataguases - MG, 36773-082, Brazil",
+        "telefone": "(34291051)",
+        "site": "https://www.fiemg.com.br/unidades/escola-sesi-cataguases/",
+        "avaliacao": 4.3,
+        "horario": "07:00 as 18:00",
+        "whatsapp": "3234291051",
+        "aprovado": true
+    },
+    {
+        "nome": "Escola Estadual Francisco Inácio Peixoto",
+        "endereco": "José Gabriel de Passos, Cataguases - MG, 36770, Brazil",
+        "telefone": "(34212971)",
+        "site": "https://www.mg.gov.br/instituicao_unidade/escola-estadual-francisco-inacio-peixoto",
+        "avaliacao": "Sem avaliação",
+        "horario": "07:00 as 19:00",
+        "whatsapp": "3234212971",
+        "aprovado": true
+    },
+    {
+        "nome": "Colégio Cecília Meireles",
+        "endereco": "R. Raimundo de Paula Batista, 77 - Centro, Cataguases - MG, 36770-078, Brazil",
+        "telefone": "(34219340)",
+        "site": null,
+        "avaliacao": "Sem avaliação",
+        "horario": "07:00 as 18:00",
+        "whatsapp": "3234219340",
+        "aprovado": true
+    },
+    {
+        "nome": "Colégio Equipe de Cataguases",
+        "endereco": "R. José Maria Figueiredo Réis, 60 - Centro, Cataguases - MG, 36770-098, Brazil",
+        "telefone": "(34214960)",
+        "site": "http://www.colegioequipe.com.br/",
+        "avaliacao": "Sem avaliação",
+        "horario": "06:30 as 18:30",
+        "whatsapp": "3234214960",
+        "aprovado": true
+    },
+    {
+        "nome": "Colégio Cataguases",
+        "endereco": "Ch Granjaria - Centro, Cataguases - MG, 36773-002, Brazil",
+        "telefone": "(34223088)",
+        "site": "http://colcataguases.blogspot.com/p/blog-page_20.html",
+        "avaliacao": "Sem avaliação",
+        "horario": "07:00 as 22:00",
+        "whatsapp": "3234223088",
+        "aprovado": true
+    },
+    {
+        "nome": "Escola Municipal Flávia Dutra",
+        "endereco": "J9C5+WM - Sereno, Cataguases - MG, 36772-014, Brazil",
+        "telefone": "(34292567)",
+        "site": null,
+        "avaliacao": "Sem avaliação",
+        "horario": "Não Informado",
+        "whatsapp": "3234292567",
+        "aprovado": true
+    },
+    {
+        "nome": "Colégio Soberano",
+        "endereco": "Av. Astolfo Dutra, 146 - Centro, Cataguases - MG, 36770-001, Brazil",
+        "telefone": "(34217808)",
+        "site": "https://instagram.com/colegiosoberanocataguases",
+        "avaliacao": "Sem avaliação",
+        "horario": "07:00 as 18:00",
+        "whatsapp": "3234217808",
+        "aprovado": true
+    },
+    {
+        "nome": "Centro de Educação Florescer",
+        "endereco": "Sítio São Caio s/n - Vila Reis, Cataguases - MG, 36770-238, Brazil",
+        "telefone": "(34212828)",
+        "site": "http://www.escolaflorescer.com.br/",
+        "avaliacao": "Sem avaliação",
+        "horario": "01:00 as 17:00",
+        "whatsapp": "3234212828",
+        "aprovado": true
+    },
+    {
+        "nome": "Escola Estadual Astolfo Dutra",
+        "endereco": "R. Marlene, 123 - Dico Leite, Cataguases - MG, 36772-456, Brazil",
+        "telefone": "(34213088)",
+        "site": "https://www.mg.gov.br/instituicao_unidade/escola-estadual-astolfo-dutra",
+        "avaliacao": "Sem avaliação",
+        "horario": "06:45 as 19:00",
+        "whatsapp": "3234213088",
+        "aprovado": true
+    },
+    {
+        "nome": "Instituto Nossa Senhora do Carmo",
+        "endereco": "Praça Santa Rita, 340 - Centro, Cataguases - MG, 36770-020, Brazil",
+        "telefone": "(34212085)",
+        "site": "http://www.colegiocarmo.com.br/",
+        "avaliacao": "Sem avaliação",
+        "horario": "07:00 as 17:20",
+        "whatsapp": "3234212085",
+        "aprovado": true
+    },
+    {
+        "nome": "Escola Estadual Manuel Inácio Peixoto",
+        "endereco": "Chácara Da Granjaria, s/n - Granjaria, Cataguases - MG, 36770-000, Brazil",
+        "telefone": "(34223088)",
+        "site": null,
+        "avaliacao": "Sem avaliação",
+        "horario": "07:00 as 12:00 e 12:30 as 18:00",
+        "whatsapp": "3234223088",
+        "aprovado": true
+    },
+    {
+        "nome": "EE Professor Quaresma",
+        "endereco": "Av. Manoel Inácio Peixoto, 2325 - Distrito Industrial, Cataguases - MG, 36771-000, Brazil",
+        "telefone": "(34214539)",
+        "site": "https://www.mg.gov.br/instituicao_unidade/escola-estadual-professor-quaresma",
+        "avaliacao": "Sem avaliação",
+        "horario": "Não Informado",
+        "whatsapp": "3234214539",
+        "aprovado": true
+    },
+    {
+        "nome": "Ee Professor Clóvis Salgado",
+        "endereco": "Rua Pergentino Dutra de Siqueira, 1s/n - Pampulha, Cataguases - MG, 36774-776, Brazil",
+        "telefone": "(34217029)",
+        "site": "https://www.mg.gov.br/instituicao_unidade/escola-estadual-professor-clovis-salgado-0",
+        "avaliacao": "Sem avaliação",
+        "horario": "06:00 as 22:00",
+        "whatsapp": "3234217029",
+        "aprovado": true
+    },
+    {
+        "nome": "Ee Marieta Soares Teixeira",
+        "endereco": "R. Romualdo Menezes, 544 - Menezes, Cataguases - MG, 36773-084, Brazil",
+        "telefone": "(34213039)",
+        "site": "http://escola-marieta-soares-teixeira.webnode.com/",
+        "avaliacao": "Sem avaliação",
+        "horario": "Não Informado",
+        "whatsapp": "3234213039",
+        "aprovado": true
+    },
+    {
+        "nome": "Escola Estadual Coronel Vieira",
+        "endereco": "Av. Astolfo Dutra, 303 - Centro, Cataguases - MG, 36770-001, Brazil",
+        "telefone": "(34215153)",
+        "site": "https://www.mg.gov.br/instituicao_unidade/escola-estadual-coronel-vieira",
+        "avaliacao": "Sem avaliação",
+        "horario": "07:30 as 17:00",
+        "whatsapp": "3234215153",
+        "aprovado": true
+    },
+    {
+        "nome": "E.E DR. NORBERTO CUSTÓDIO FERREIRA",
+        "endereco": "Praça Dr. Joaquim Jose da Costa Cruz, 67 - Granjaria, Cataguases - MG, 36773-540, Brazil",
+        "telefone": "(34211895)",
+        "site": "https://www.mg.gov.br/instituicao_unidade/escola-estadual-doutor-norberto-custodio-ferreira",
+        "avaliacao": "Sem avaliação",
+        "horario": "07:00 as 18:00",
+        "whatsapp": "3234211895",
+        "aprovado": true
+    }
+]
