@@ -16,12 +16,12 @@ https://lista-tele-b22b04b5.base44.app
 ## 📱 Telas do Aplicativo
 
 <p align="center">
-  <img src="images/home.png" width="250" />
-  <img src="images/categorias.png" width="250" />
-  <img src="images/emdestaque.png" width="250" />
-  <img src="images/detalhes.png" width="250" />
-  <img src="images/favoritos.png" width="250" />
-  <img src="images/perfil.png" width="250" />
+  <img src="projeto app achou/images/home.png" width="250" />
+  <img src="projeto app achou/images/categorias.png" width="250" />
+  <img src="projeto app achou/images/emdestaque.png" width="250" />
+  <img src="projeto app achou/images/detalhes.png" width="250" />
+  <img src="projeto app achou/images/favoritos.png" width="250" />
+  <img src="projeto app achou/images/perfil.png" width="250" />
 </p>
 ---
 
