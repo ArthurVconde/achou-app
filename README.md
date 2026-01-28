@@ -12,7 +12,17 @@ A proposta do projeto é modernizar o conceito da lista telefônica tradicional,
 https://lista-tele-b22b04b5.base44.app
 
 📱 **Importante:** ao acessar o link pelo **celular**, o usuário recebe a opção de **instalar o aplicativo diretamente no dispositivo**, permitindo utilizá-lo como um app nativo, sem necessidade de acesso pelo navegador.
+---
+## 📱 Telas do Aplicativo
 
+<p align="center">
+  <img src="images/home.png" width="250" />
+  <img src="images/categorias.png" width="250" />
+  <img src="images/emdestaque.png" width="250" />
+  <img src="images/detalhes.png" width="250" />
+  <img src="images/favoritos.png" width="250" />
+  <img src="images/perfil.png" width="250" />
+</p>
 ---
 
 ## 🎯 Objetivo do Projeto
@@ -85,3 +95,5 @@ Projeto desenvolvido durante a graduação em **Sistemas de Informação**, com 
 ## 👤 Autor
 **Arthur Valverde Condé**  
 Bacharel em Sistemas de Informação
+
+
