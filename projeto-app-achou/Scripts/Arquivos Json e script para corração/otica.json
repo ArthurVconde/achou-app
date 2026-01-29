@@ -1,0 +1,182 @@
+[
+    {
+        "nome": "Ótica Mercadão dos Óculos Cataguases",
+        "endereco": "Praça Gov. Valadares, 15 - Centro, Cataguases - MG, 36770-071, Brazil",
+        "telefone": null,
+        "site": "https://www.mercadaodosoculos.com.br/",
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Ótica Cataguases",
+        "endereco": "R. Maj. Viêira, 156 - Centro, Cataguases - MG, 36770-028, Brazil",
+        "telefone": "(34215063)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:30 as 18:00",
+        "whatsapp": "3234215063",
+        "aprovado": true
+    },
+    {
+        "nome": "Ótica Gold",
+        "endereco": "R. Cel. João Duarte, 99A - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": "(34215960)",
+        "site": "https://www.instagram.com/oticagold.cataguases/",
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234215960",
+        "aprovado": true
+    },
+    {
+        "nome": "Ótica Meia Pataca",
+        "endereco": "R. Cel. João Duarte, 92 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": "(34212917)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234212917",
+        "aprovado": true
+    },
+    {
+        "nome": "Fábrica de Óculos",
+        "endereco": "R. Cel. João Duarte, 64 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": "(34211705)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234211705",
+        "aprovado": true
+    },
+    {
+        "nome": "Ótica Visual de Cataguases",
+        "endereco": "R. Ten. Luís Ribeiro, 143b - Vila Domingos Lopes, Cataguases - MG, 36774-034, Brazil",
+        "telefone": "(34215775)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234215775",
+        "aprovado": true
+    },
+    {
+        "nome": "Ótica Novo Horizonte",
+        "endereco": "R. Joaquim de Souza Carvalho, 10 - Taquara Preta, Cataguases - MG, 36771-522, Brazil",
+        "telefone": "(32015106)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3232015106",
+        "aprovado": true
+    },
+    {
+        "nome": "Unique Óculos e Acessórios",
+        "endereco": "Av. Manoel Inácio Peixoto, 900 - Distrito Industrial, Cataguases - MG, 36771-000, Brazil",
+        "telefone": "(999616278)",
+        "site": "https://www.uniqueacessorios.com.br/",
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32999616278",
+        "aprovado": true
+    },
+    {
+        "nome": "Ótica Rio Pomba",
+        "endereco": "R. Nogueira Neves, 11 - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(34213817)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234213817",
+        "aprovado": true
+    },
+    {
+        "nome": "Oticas Renan",
+        "endereco": "Centro, Cataguases - State of Minas Gerais, 36774-000, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Ótica QÓculos - Cataguases",
+        "endereco": "R. Mal. Deodoro da Fonseca, 20 - Loja 3 - Centro, Cataguases - MG, 36770-062, Brazil",
+        "telefone": "(984069409)",
+        "site": "http://www.qoculos.com.br/",
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": "32984069409",
+        "aprovado": true
+    },
+    {
+        "nome": "Calçadão Cataguases MG",
+        "endereco": "R. Cel. João Duarte, 67 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 4.6,
+        "horario": "08:00 as 18:30",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "ÓTICAS NETTO",
+        "endereco": "R. Mal. Deodoro da Fonseca, 20 - Loja 3 - Centro, Cataguases - MG, 36770-062, Brazil",
+        "telefone": "(984069409)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "09:00 as 18:00",
+        "whatsapp": "32984069409",
+        "aprovado": true
+    },
+    {
+        "nome": "Ótica Líder",
+        "endereco": "R. Cel. João Duarte, 120 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": "(34227655)",
+        "site": "https://www.instagram.com/oticalider_cataguases/",
+        "avaliacao": 0,
+        "horario": "08:00 as 18:30",
+        "whatsapp": "3234227655",
+        "aprovado": true
+    },
+    {
+        "nome": "Ótica Pontual",
+        "endereco": "R. Nogueira Neves - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(34226263)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234226263",
+        "aprovado": true
+    },
+    {
+        "nome": "Óticas Precisão",
+        "endereco": "R. Nogueira Neves, 27 - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(34703411)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "09:30 as 19:30",
+        "whatsapp": "3234703411",
+        "aprovado": true
+    },
+    {
+        "nome": "Óticas Carol",
+        "endereco": "R. Cel. João Duarte, 48 B - 36770-032 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": "(34226397)",
+        "site": "https://www.oticascarol.com.br/brasil/OticasCarolStoreLoc",
+        "avaliacao": 0,
+        "horario": "Não Informado",
+        "whatsapp": "3234226397",
+        "aprovado": true
+    },
+    {
+        "nome": "MÁRCIA LENTES",
+        "endereco": "R. Rabêlo Horta, 126 - Centro, Cataguases - MG, 36770-064, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 0,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    }
+]

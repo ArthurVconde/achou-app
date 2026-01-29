@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "Fotografo em cataguases Felipe Santana",
+        "endereco": "Praça Gov. Valadares, 101 - Centro, Cataguases - MG, 36770-071, Brazil",
+        "telefone": "(998103692)",
+        "site": "http://www.felipesantanaart.com.br/",
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32998103692",
+        "aprovado": true
+    },
+    {
+        "nome": "Hernani Barroca Fotografia e Vídeos",
+        "endereco": "R. Altamiro Peixoto, 296 - Haideê Fajardo, Cataguases - MG, 36774-100, Brazil",
+        "telefone": "(999813729)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": "32999813729",
+        "aprovado": true
+    },
+    {
+        "nome": "Eduarda Gouveia Fotografia",
+        "endereco": "Rua Tenente Luiz Ribeiro,231- Vila Domingos Lopes - Cataguases - MG Lj-10,13 - Vila Domingos Lopes, Cataguases - MG, 36774-034, Brazil",
+        "telefone": "(999865033)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 11:00 e 01:00 as 18:00",
+        "whatsapp": "32999865033",
+        "aprovado": true
+    },
+    {
+        "nome": "AfroFotos",
+        "endereco": "R. Luiza Pussent Cavalier, 25A - Colinas II, Cataguases - MG, 36773-249, Brazil",
+        "telefone": "(998403435)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "10:00 as 17:00",
+        "whatsapp": "32998403435",
+        "aprovado": true
+    },
+    {
+        "nome": "Clip Artes fotografias",
+        "endereco": "R. Pedro Dutra, 301 - Bnh, Cataguases - MG, 36770-166, Brazil",
+        "telefone": "(988680749)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": "32988680749",
+        "aprovado": true
+    },
+    {
+        "nome": "Lidianereis",
+        "endereco": "Av. João Inácio Peixoto, 177 - Granjaria, Cataguases - MG, 36773-560, Brazil",
+        "telefone": "(34214353)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": "3234214353",
+        "aprovado": true
+    },
+    {
+        "nome": "Redsete",
+        "endereco": "R. Nogueira Neves, 359 - 3º andar - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(34211797)",
+        "site": "http://www.redsete.com/",
+        "avaliacao": 5,
+        "horario": "08:00 as 20:00",
+        "whatsapp": "3234211797",
+        "aprovado": true
+    },
+    {
+        "nome": "Foto HR-Ricardo Barroca",
+        "endereco": "R. Altamiro Peixoto, 459 - Haidée, Cataguases - MG, 36774-100, Brazil",
+        "telefone": "(988472342)",
+        "site": "https://www.facebook.com/fotoestudioricardobarroca",
+        "avaliacao": 4.8,
+        "horario": "08:30 as 17:00",
+        "whatsapp": "32988472342",
+        "aprovado": true
+    },
+    {
+        "nome": "Ju Moutinho Fotografia",
+        "endereco": "R. Carmelita Duarte Barbosa, 629 - São Pedro, Cataguases - MG, 36771-304, Brazil",
+        "telefone": "(34214859)",
+        "site": "http://julianamoutinho.alboompro.com/",
+        "avaliacao": 4.8,
+        "horario": "01:00 as 18:00",
+        "whatsapp": "3234214859",
+        "aprovado": true
+    },
+    {
+        "nome": "Ronaldo Fotógrafo",
+        "endereco": "R. Alferes Henrique Azevedo, 64 - Centro, Cataguases - MG, 36770-004, Brazil",
+        "telefone": "(34215562)",
+        "site": null,
+        "avaliacao": 4.5,
+        "horario": "08:00 as 11:30 e 02:00 as 17:00",
+        "whatsapp": "3234215562",
+        "aprovado": true
+    },
+    {
+        "nome": "Enquadre-se",
+        "endereco": "R. Mauricio Carrara, 69 - Vila Tereza, Cataguases - MG, 36772-012, Brazil",
+        "telefone": "(988617520)",
+        "site": null,
+        "avaliacao": 4.4,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32988617520",
+        "aprovado": true
+    },
+    {
+        "nome": "Wagno Aguiar",
+        "endereco": "R. Dr. Sobral, 247 - Centro, Cataguases - MG, 36770-044, Brazil",
+        "telefone": "(988147468)",
+        "site": null,
+        "avaliacao": 4.1,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32988147468",
+        "aprovado": true
+    },
+    {
+        "nome": "Foto Baião",
+        "endereco": "R. Cel. João Duarte, 89 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": "(34213073)",
+        "site": null,
+        "avaliacao": 3.5,
+        "horario": "08:00 as 12:00 e 01:00 as 18:00",
+        "whatsapp": "3234213073",
+        "aprovado": true
+    },
+    {
+        "nome": "Emoldurados - Quadros & Impressões",
+        "endereco": "Av. Eudaldo Lessa, 445 - Popular, Cataguases - MG, 36774-552, Brazil",
+        "telefone": "(998810987)",
+        "site": "https://www.instagram.com/emoldurados/",
+        "avaliacao": 3,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32998810987",
+        "aprovado": true
+    },
+    {
+        "nome": "Paula Queiróz Fotógrafa",
+        "endereco": "Av. Guido Marliere, 314 - Haidée, Cataguases - MG, 36774-104, Brazil",
+        "telefone": "(991070544)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "Não Informado",
+        "whatsapp": "32991070544",
+        "aprovado": true
+    },
+    {
+        "nome": "Raváglia.Photos",
+        "endereco": "R. Francisco de Souza Pinheiro - Paraíso, Cataguases - MG, 36772-166, Brazil",
+        "telefone": "(998275058)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "Open 24 hours",
+        "whatsapp": "32998275058",
+        "aprovado": true
+    },
+    {
+        "nome": "Thais Medina Fotografia",
+        "endereco": "Praça Rui Barbosa, 170 - Centro, Cataguases - MG, 36770-034, Brazil",
+        "telefone": "(984143395)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "09:00 as 17:00",
+        "whatsapp": "32984143395",
+        "aprovado": true
+    },
+    {
+        "nome": "Inspire Agência Criativa - Simone Martins Fotografia",
+        "endereco": "R. dos Estudantes, 69 - Centro, Cataguases - MG, 36770-018, Brazil",
+        "telefone": "(984456253)",
+        "site": "https://inspirecriativa.com/simonemartins",
+        "avaliacao": 0,
+        "horario": "01:00 as 17:00",
+        "whatsapp": "32984456253",
+        "aprovado": true
+    },
+    {
+        "nome": "Wagno Aguiar",
+        "endereco": "R. José Maria Figueiredo Réis - Cataguases, MG, 36770-000, Brazil",
+        "telefone": "(988147468)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "Não Informado",
+        "whatsapp": "32988147468",
+        "aprovado": true
+    },
+    {
+        "nome": "LÍLIAN DONOFRE FOTOGRAFIA",
+        "endereco": "R. Ten. Luís Ribeiro, 231 - sala 203 - Vila Domingos Lopes, Cataguases - MG, 36774-182, Brazil",
+        "telefone": "(998412932)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "01:00 as 17:00",
+        "whatsapp": "32998412932",
+        "aprovado": true
+    }
+]

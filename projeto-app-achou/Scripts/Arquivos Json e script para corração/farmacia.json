@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "Drogaria Inova Cataguases",
+        "endereco": "R. Maj. Viêira  15 - Centro  Cataguases - MG  36770-028  Brazil",
+        "telefone": "(3429-2425)",
+        "site": "http://www.redeinovadrogarias.com.br/",
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234292425"
+    },
+    {
+        "nome": "Drogarias Econômica | Farmácia Delivery em Cataguases",
+        "endereco": "R. Cel. João Duarte  78 - loja 02/04 - Centro  Cataguases - MG  36770-032  Brazil",
+        "telefone": "(3421-3083)",
+        "site": "http://www.instagram.com/drogarias_economica",
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234213083"
+    },
+    {
+        "nome": "MULTIFARMA POPULAR CATAGUASES",
+        "endereco": "Ao lado do Supermercado Morais - Av. Eudaldo Lessa  195 - Popular  Cataguases - MG  36774-552  Brazil",
+        "telefone": "(98892-6078)",
+        "site": "https://wa.me/5532988926078",
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "32988926078"
+    },
+    {
+        "nome": "Drogaria Coimbra Cataguases-MG",
+        "endereco": "R. Nogueira Neves - Centro  Cataguases - MG  36770-070  Brazil",
+        "telefone": "(3421-2147)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234212147"
+    },
+    {
+        "nome": "Drogaria São Francisco",
+        "endereco": "Rua Joaquim Peixoto Ramos  124 - Centro  Cataguases - MG  36770-066  Brazil",
+        "telefone": "(3421-2716)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234212716"
+    },
+    {
+        "nome": "Drogavas - Centro",
+        "endereco": "Praça Gov. Valadares  7 - Centro  Cataguases - MG  36770-071  Brazil",
+        "telefone": "(3422-6875)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234226875"
+    },
+    {
+        "nome": "Drogaria do Campinho Menezes",
+        "endereco": "R. José Godinho  143 - Menezes  Cataguases - MG  36774-128  Brazil",
+        "telefone": "(3421-6514)",
+        "site": "http://linktr.ee/DrogariaCampinho",
+        "avaliacao": 4.9,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234216514"
+    },
+    {
+        "nome": "Drogavas - Vila Minalda",
+        "endereco": "R. Luiz Pinto da Silva  35 - Vila Minalda  Cataguases - MG  36772-406  Brazil",
+        "telefone": "(3422-2276)",
+        "site": null,
+        "avaliacao": 4.8,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234222276"
+    },
+    {
+        "nome": "Drogaria Farma Center | Cataguases | Farmácia",
+        "endereco": "R. Manoel da Silva Rama  n° 15 - Centro  Cataguases - MG  36770-040  Brazil",
+        "telefone": "(3421-7479)",
+        "site": "https://wa.me/5532999997746?text=Ol%C3%A1%2C+achei+sua+farm%C3%A1cia+no+google+e+gostaria+de+fazer+meu+pedido.",
+        "avaliacao": 4.7,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234217479"
+    },
+    {
+        "nome": "Drogaria Silveira de Cataguases",
+        "endereco": "R. Cel. João Duarte  99 - Centro  Cataguases - MG  36770-032  Brazil",
+        "telefone": "(3421-4493)",
+        "site": null,
+        "avaliacao": 4.5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234214493"
+    },
+    {
+        "nome": "Pharmacy Santa Rita",
+        "endereco": "R. Cel. João Duarte  13 - Centro  Cataguases - MG  36770-032  Brazil",
+        "telefone": "(3421-1441)",
+        "site": null,
+        "avaliacao": 4.5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234211441"
+    },
+    {
+        "nome": "Farmácia Pague Menos",
+        "endereco": "Praça Gov. Valadares  189 - Centro  Cataguases - MG  36770-071  Brazil",
+        "telefone": "(4002-8282)",
+        "site": "https://www.paguemenos.com.br/?utm_source=google&utm_medium=website&utm_campaign=youmap",
+        "avaliacao": 4.4,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3240028282"
+    },
+    {
+        "nome": "Farmácia Cataguases",
+        "endereco": "Praça Gov. Valadares  271 - Centro  Cataguases - MG  36770-000  Brazil",
+        "telefone": "(3421-1248)",
+        "site": null,
+        "avaliacao": 4.2,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234211248"
+    },
+    {
+        "nome": "Drogavas - Vila Tereza",
+        "endereco": "R. Mauricio Carrara  55 - Vila Tereza  Cataguases - MG  36772-012  Brazil",
+        "telefone": "(3422-6875)",
+        "site": null,
+        "avaliacao": 4,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234226875"
+    },
+    {
+        "nome": "Drogaria Imediata Cataguases",
+        "endereco": "R. Ten. Luís Ribeiro  03 - Vila Domingos Lopes  Cataguases - MG  36774-034  Brazil",
+        "telefone": "(3421-2467)",
+        "site": "http://wa.me/5532998000221",
+        "avaliacao": 4,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234212467"
+    },
+    {
+        "nome": "Drogarias Destaque",
+        "endereco": "Praça Rui Barbosa  304 - Centro  Cataguases - MG  36770-038  Brazil",
+        "telefone": "(3112-0112)",
+        "site": null,
+        "avaliacao": 3.9,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3231120112"
+    },
+    {
+        "nome": "Drogasil",
+        "endereco": "R. Ten. Fortunato  106 - Centro  Cataguases - MG  36770-038  Brazil",
+        "telefone": "(99931-1581)",
+        "site": null,
+        "avaliacao": 3.7,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "32999311581"
+    },
+    {
+        "nome": "DROGANOVA Cataguases MG",
+        "endereco": "R. Ten. Fortunato  352-394 - Centro  Cataguases - MG  36770-038  Brazil",
+        "telefone": "(3421-3936)",
+        "site": null,
+        "avaliacao": 3.7,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234213936"
+    },
+    {
+        "nome": "Farmácia Indiana",
+        "endereco": "R. Ten. Fortunato  33 - Centro  Cataguases - MG  36770-038  Brazil",
+        "telefone": "(3422-0024)",
+        "site": "https://www.farmaciaindiana.com.br/",
+        "avaliacao": 3.6,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234220024"
+    },
+    {
+        "nome": "Farmácia Nossa Senhora do Rosário",
+        "endereco": "R. Ten. Luís Ribeiro  230 A - Vila Domingos Lopes  Cataguases - MG  36774-034  Brazil",
+        "telefone": "(3421-2939)",
+        "site": "https://linktr.ee/farmnsradorosario",
+        "avaliacao": 3.5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "3234212939"
+    }
+]

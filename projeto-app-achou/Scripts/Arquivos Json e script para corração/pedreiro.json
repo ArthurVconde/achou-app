@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "Pedreiro cebola",
+        "endereco": "R. Leone Sachetto  250 - Paraíso  Cataguases - MG  36772-160  Brazil",
+        "telefone": "(99806-7367)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "32998067367"
+    },
+    {
+        "nome": "JC Construções e reformas",
+        "endereco": "160 - Bom Pastor  Cataguases - MG  36772-362  Brazil",
+        "telefone": "(99881-2806)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "32998812806"
+    },
+    {
+        "nome": "Rená Pinturas Reparos  Construção eConservação (Pedreiro e Pintor)",
+        "endereco": "Carijós  Cataguases - MG  36770-315  Brazil",
+        "telefone": "(99823-9778)",
+        "site": "https://www.instagram.com/rena_pinturas_e_reparos?igsh=MWg2NXZhdjBzY3lpNg==",
+        "avaliacao": 0,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": "32998239778"
+    },
+    {
+        "nome": "Casa pedreiro",
+        "endereco": "R. José Godinho  435 - Menezes  Cataguases - MG  36774-128  Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 0,
+        "horario": "Não Informado",
+        "aprovado": true,
+        "whatsapp": null
+    }
+]

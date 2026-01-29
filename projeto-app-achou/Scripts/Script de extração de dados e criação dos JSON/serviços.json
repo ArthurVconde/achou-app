@@ -1,0 +1,290 @@
+[
+    {
+        "name": "PatríciaTobias Advocacia e Consultoria | Dra Patrícia Tobias Santos / Advogado em Cataguases",
+        "address": "Travessa Treze de Maio Rua - R. Treze de Maio, 129 - Centro, Cataguases - MG, 36770-026, Brazil",
+        "phone": "(32) 99921-4385",
+        "website": "https://patriciatobiassantosmariaeduardavaladaresadvogadas.jusfy.com.br/#inicio",
+        "rating": 5,
+        "hours": [
+            "Monday: 8:00 AM – 6:30 PM",
+            "Tuesday: 8:00 AM – 6:30 PM",
+            "Wednesday: 8:00 AM – 6:30 PM",
+            "Thursday: 8:00 AM – 6:30 PM",
+            "Friday: 8:00 AM – 6:30 PM",
+            "Saturday: 8:00 AM – 12:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Suhurt & Cruz Advogados",
+        "address": "Av. Cel. Artur Cruz, 271a - Centro, Cataguases - MG, 36773-008, Brazil",
+        "phone": "(32) 99931-7677",
+        "website": "https://suhurtecruz.com.br/",
+        "rating": 5,
+        "hours": [
+            "Monday: 9:00 AM – 6:00 PM",
+            "Tuesday: 9:00 AM – 6:00 PM",
+            "Wednesday: 9:00 AM – 6:00 PM",
+            "Thursday: 9:00 AM – 6:00 PM",
+            "Friday: 9:00 AM – 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Éverton Resende | Advogado Cataguases",
+        "address": "R. Dr. Francisco de Barros, 202 - Centro, Cataguases - MG, 36770-022, Brazil",
+        "phone": "(32) 98817-6449",
+        "website": "http://evertonresendeadvogado.com.br/",
+        "rating": 5,
+        "hours": [
+            "Monday: 8:00 AM – 6:00 PM",
+            "Tuesday: 8:00 AM – 6:00 PM",
+            "Wednesday: 8:00 AM – 6:00 PM",
+            "Thursday: 8:00 AM – 6:00 PM",
+            "Friday: 8:00 AM – 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Matheus Camarinha Advocacia",
+        "address": "R. Eduardo Del Peloso - Granjaria, Cataguases - MG, 36773-004, Brazil",
+        "phone": "(32) 98437-0349",
+        "website": "https://www.instagram.com/matheusmagno_adv/",
+        "rating": 5,
+        "hours": [
+            "Monday: 8:00 AM – 6:00 PM",
+            "Tuesday: 8:00 AM – 6:00 PM",
+            "Wednesday: 8:00 AM – 6:00 PM",
+            "Thursday: 8:00 AM – 6:00 PM",
+            "Friday: 8:00 AM – 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Rafael Pinheiro Advocacia - Advogado Cataguases",
+        "address": "Edifício Vila Shopping - R. Ten. Luís Ribeiro, 231 - Sala 102 - Vila Domingos Lopes, Cataguases - MG, 36774-034, Brazil",
+        "phone": "(32) 99827-7533",
+        "website": "http://www.advogadocataguases.com.br/",
+        "rating": 5,
+        "hours": [
+            "Monday: 1:00 – 5:00 PM",
+            "Tuesday: 1:00 – 5:00 PM",
+            "Wednesday: 1:00 – 5:00 PM",
+            "Thursday: 1:00 – 5:00 PM",
+            "Friday: 1:00 – 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Mateus Valverde Advocacia",
+        "address": "R. Joaquim Henrique da Mata, 78 - Centro, Cataguases - MG, 36770-030, Brazil",
+        "phone": "(32) 98856-5308",
+        "website": "https://mateusvalverde.adv.br/",
+        "rating": 5,
+        "hours": [
+            "Monday: 8:00 AM – 6:00 PM",
+            "Tuesday: 8:00 AM – 6:00 PM",
+            "Wednesday: 8:00 AM – 6:00 PM",
+            "Thursday: 8:00 AM – 6:00 PM",
+            "Friday: 8:00 AM – 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "SFS | Souza, Furtado e Silva Advogados Associados",
+        "address": "R. José Maria Figueiredo Réis, 60 - Sala 103 - Centro, Cataguases - MG, 36770-098, Brazil",
+        "phone": "(32) 3421-2860",
+        "website": null,
+        "rating": 5,
+        "hours": [
+            "Monday: 9:00 – 11:00 AM, 1:30 – 5:00 PM",
+            "Tuesday: 9:00 – 11:00 AM, 1:30 – 5:00 PM",
+            "Wednesday: 9:00 – 11:00 AM, 1:30 – 5:00 PM",
+            "Thursday: 9:00 – 11:00 AM, 1:30 – 5:00 PM",
+            "Friday: 9:00 – 11:00 AM, 1:30 – 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Dario Neves Advocacia",
+        "address": "R. Teodósio Passos Guieiro, 67 - Independência, Cataguases - MG, 36774-134, Brazil",
+        "phone": "(31) 97538-1538",
+        "website": null,
+        "rating": 5,
+        "hours": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    {
+        "name": "Paternoster Advogados - Em Cataguases - Minas Gerais",
+        "address": "Av. Humberto Mauro, 443 - Centro, Cataguases - MG, 36773-012, Brazil",
+        "phone": "(32) 98405-5254",
+        "website": null,
+        "rating": 5,
+        "hours": [
+            "Monday: 1:00 – 6:00 PM",
+            "Tuesday: 1:00 – 6:00 PM",
+            "Wednesday: 1:00 – 6:00 PM",
+            "Thursday: 1:00 – 6:00 PM",
+            "Friday: 1:00 – 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Igor Franzini Advocacia",
+        "address": "Praça Rui Barbosa, 68 - Centro, Cataguases - MG, 36770-034, Brazil",
+        "phone": "(32) 99984-2074",
+        "website": "https://www.igorfranziniadvocacia.com/",
+        "rating": 5,
+        "hours": [
+            "Monday: 9:00 AM – 6:00 PM",
+            "Tuesday: 9:00 AM – 6:00 PM",
+            "Wednesday: 9:00 AM – 6:00 PM",
+            "Thursday: 9:00 AM – 6:00 PM",
+            "Friday: 9:00 AM – 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Leonardo Henriques de Mendonça",
+        "address": "Praça Gov. Valadares, 76 - Centro, Cataguases - MG, 36770-071, Brazil",
+        "phone": "(32) 3421-1911",
+        "website": null,
+        "rating": 5,
+        "hours": []
+    },
+    {
+        "name": "Cruzato Advogados",
+        "address": "R. Nogueira Neves, 187 - 415 - Centro, Cataguases - MG, 36770-070, Brazil",
+        "phone": null,
+        "website": null,
+        "rating": 5,
+        "hours": []
+    },
+    {
+        "name": "Lana e Graça Advogados Associados",
+        "address": "R. Cel. João Duarte, 64 - salas 202 e 204 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "phone": "(32) 99965-2789",
+        "website": "http://instagram.com/lanaegraca.adv",
+        "rating": 5,
+        "hours": []
+    },
+    {
+        "name": "Túlio Franzini Advocacia",
+        "address": "Praça Rui Barbosa, 68 - Centro, Cataguases - MG, 36770-034, Brazil",
+        "phone": "(32) 99809-8196",
+        "website": "http://www.tuliofranziniadvocacia.advogar.site/",
+        "rating": 5,
+        "hours": [
+            "Monday: 8:00 AM – 6:00 PM",
+            "Tuesday: 8:00 AM – 6:00 PM",
+            "Wednesday: 8:00 AM – 6:00 PM",
+            "Thursday: 8:00 AM – 6:00 PM",
+            "Friday: 8:00 AM – 6:00 PM",
+            "Saturday: 8:00 AM – 12:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Letícia Saldanha Advocacia",
+        "address": "R. dos Estudantes, 69 - Centro, Cataguases - MG, 36770-018, Brazil",
+        "phone": "(32) 98499-7442",
+        "website": "https://instagram.com/leticiasaldanha.adv?igshid=NzZlODBkYWE4Ng==",
+        "rating": 4.9,
+        "hours": [
+            "Monday: 8:00 AM – 6:00 PM",
+            "Tuesday: 8:00 AM – 6:00 PM",
+            "Wednesday: 8:00 AM – 6:00 PM",
+            "Thursday: 8:00 AM – 6:00 PM",
+            "Friday: 8:00 AM – 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Escritório Compartilhado CAAMG - Unidade Cataguases",
+        "address": "R. Eduardo Del Peloso, nº 32 - Granjaria, Cataguases - MG, 36773-004, Brazil",
+        "phone": "(32) 3422-1904",
+        "website": null,
+        "rating": 4.8,
+        "hours": [
+            "Monday: 9:15 AM – 5:30 PM",
+            "Tuesday: 9:15 AM – 5:30 PM",
+            "Wednesday: 9:15 AM – 5:30 PM",
+            "Thursday: 9:15 AM – 5:30 PM",
+            "Friday: 9:15 AM – 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Boya & Schettini Advogados",
+        "address": "Av. Melo Viana, 180 - Centro, Cataguases - MG, 36770-000, Brazil",
+        "phone": "(32) 3421-1901",
+        "website": "http://www.boyaadvogados.com.br/",
+        "rating": 4.6,
+        "hours": []
+    },
+    {
+        "name": "Eurico Reis Ferreira",
+        "address": "R. Ten. Luís Ribeiro, 231 - Vila Domingos Lopes, Cataguases - MG, 36774-034, Brazil",
+        "phone": "(32) 3421-2729",
+        "website": null,
+        "rating": 4.5,
+        "hours": [
+            "Monday: 8:00 AM – 7:00 PM",
+            "Tuesday: 8:00 AM – 7:00 PM",
+            "Wednesday: 8:00 AM – 7:00 PM",
+            "Thursday: 8:00 AM – 7:00 PM",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Leonardo Defilippo ADVOGADO",
+        "address": "Edifício Vogue - R. Dr. Sobral, 445/306 - Centro, Cataguases - MG, 36770-044, Brazil",
+        "phone": "(32) 99984-1020",
+        "website": null,
+        "rating": 0,
+        "hours": [
+            "Monday: 8:00 AM – 6:00 PM",
+            "Tuesday: 8:00 AM – 8:00 PM",
+            "Wednesday: 8:00 AM – 8:00 PM",
+            "Thursday: 8:00 AM – 8:00 PM",
+            "Friday: 8:00 AM – 6:00 PM",
+            "Saturday: 8:00 AM – 12:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Escritório de Advocacia - Dra Fabiana da Costa Carvalho OAB/MG n. 136.043",
+        "address": "R. Cel. João Duarte, n 78 - sala 07 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "phone": "(32) 99946-4092",
+        "website": null,
+        "rating": 0,
+        "hours": [
+            "Monday: 1:00 – 6:00 PM",
+            "Tuesday: 1:00 – 6:00 PM",
+            "Wednesday: 1:00 – 6:00 PM",
+            "Thursday: 1:00 – 6:00 PM",
+            "Friday: 1:00 – 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    }
+]

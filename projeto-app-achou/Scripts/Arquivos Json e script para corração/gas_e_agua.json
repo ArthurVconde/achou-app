@@ -1,0 +1,162 @@
+[
+    {
+        "nome": "Vitim Gás e Água",
+        "endereco": "Av. José Leonardo - Cataguases, MG, 36773-626, Brazil",
+        "telefone": "(999901288)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "07:00 as 22:00",
+        "whatsapp": "32999901288",
+        "aprovado": true
+    },
+    {
+        "nome": "Acqua beer distribuidora de água mineral",
+        "endereco": "Rua Francisco - R. Francisco Antônio Leonardo, 136 - Haidée, Cataguases - MG, 36774-102, Brazil",
+        "telefone": "(999629541)",
+        "site": "https://linktr.ee/aquabeer",
+        "avaliacao": 5,
+        "horario": "07:00 as 18:00",
+        "whatsapp": "32999629541",
+        "aprovado": true
+    },
+    {
+        "nome": "Fênix Distribuidora",
+        "endereco": "R. Rosário Fusco, 12 - Bela Vista, Cataguases - MG, 36770-156, Brazil",
+        "telefone": "(998822896)",
+        "site": "http://bit.ly/fenixdistribuidorakta",
+        "avaliacao": 5,
+        "horario": "09:00 as 18:00",
+        "whatsapp": "32998822896",
+        "aprovado": true
+    },
+    {
+        "nome": "Distribuidora de Agua Mineral Beira Rio",
+        "endereco": "Av. Veríssimo Mendonça, 350 - Beira Rio, Cataguases - MG, 36772-020, Brazil",
+        "telefone": "(34212511)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234212511",
+        "aprovado": true
+    },
+    {
+        "nome": "Fonte Nova Distribuidora",
+        "endereco": "R. Luiz Pinto da Silva - Vila Minalda, Cataguases - MG, 36772-406, Brazil",
+        "telefone": "(24210306)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3224210306",
+        "aprovado": true
+    },
+    {
+        "nome": "ACQUALAR ÁGUA MINERAL",
+        "endereco": "R. Prof. Alcântara, 120 - loja1 - Centro, Cataguases - MG, 36770-068, Brazil",
+        "telefone": "(34213473)",
+        "site": null,
+        "avaliacao": 4.8,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234213473",
+        "aprovado": true
+    },
+    {
+        "nome": "Distribuidora H2o",
+        "endereco": "Av. João Inácio Peixoto, 213 - Granjaria, Cataguases - MG, 36773-560, Brazil",
+        "telefone": "(985018404)",
+        "site": null,
+        "avaliacao": 4.7,
+        "horario": "09:00 as 21:00",
+        "whatsapp": "32985018404",
+        "aprovado": true
+    },
+    {
+        "nome": "Revenda Ultragaz",
+        "endereco": "Av. Meia Pataca, 192 - Centro, Cataguases - MG, 36770-056, Brazil",
+        "telefone": "(34217170)",
+        "site": "https://www.ultragaz.com.br/buscar-revenda/",
+        "avaliacao": 4.2,
+        "horario": "07:00 as 18:30",
+        "whatsapp": "3234217170",
+        "aprovado": true
+    },
+    {
+        "nome": "Nem gás",
+        "endereco": "Estrada Cataguases p/ Vista - Cataguases, MG, 36770-616, Brazil",
+        "telefone": "(988593788)",
+        "site": null,
+        "avaliacao": 4,
+        "horario": "08:00 as 19:00",
+        "whatsapp": "32988593788",
+        "aprovado": true
+    },
+    {
+        "nome": "Cris Gás",
+        "endereco": "Av. Sizenando Dutra de Siqueira, 1 - Pampulha, Cataguases - MG, 36774-552, Brazil",
+        "telefone": "(34213138)",
+        "site": null,
+        "avaliacao": 4,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234213138",
+        "aprovado": true
+    },
+    {
+        "nome": "Revendedora de Gás Kata",
+        "endereco": "Av. das Industrias, 23 - Santa Clara, Cataguases - MG, 36771-396, Brazil",
+        "telefone": "(34220766)",
+        "site": null,
+        "avaliacao": 4,
+        "horario": "Não Informado",
+        "whatsapp": "3234220766",
+        "aprovado": true
+    },
+    {
+        "nome": "H2O Gás e Água",
+        "endereco": "Av. Cel. Artur Cruz, 405 - Granjaria, Cataguases - MG, 36773-008, Brazil",
+        "telefone": "(34215700)",
+        "site": null,
+        "avaliacao": 3,
+        "horario": "07:00 as 19:00",
+        "whatsapp": "3234215700",
+        "aprovado": true
+    },
+    {
+        "nome": "Nem gás e água",
+        "endereco": "R. Leogédio Carlos da Silva - Vila Reis, Cataguases - MG, 36770-220, Brazil",
+        "telefone": "(34221369)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "08:00 as 19:00",
+        "whatsapp": "3234221369",
+        "aprovado": true
+    },
+    {
+        "nome": "Distribuidora de Àgua e Gàs Nativa Fonte Rafael Henriques",
+        "endereco": "R. Sebastião Galdino, 357 - Dico Leite, Cataguases - MG, 36772-459, Brazil",
+        "telefone": "(988071175)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "08:00 as 22:00",
+        "whatsapp": "32988071175",
+        "aprovado": true
+    },
+    {
+        "nome": "H Gás e Água",
+        "endereco": "Av. Veríssimo Mendonça, 350 - Beira Rio, Cataguases - MG, 36772-022, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 0,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Gás E Água",
+        "endereco": "Popular, Cataguases - State of Minas Gerais, 36774-552, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 0,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "Veterinária Pet SOS",
+        "endereco": "R. Ten. Fortunato, 80 - Centro, Cataguases - MG, 36770-038, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "REABILITA PET - CAROL LUZ VETERINÁRIA EM CATAGUASES",
+        "endereco": "Av. Astolfo Dutra, 535 - Centro, Cataguases - MG, 36770-001, Brazil",
+        "telefone": "(991112117)",
+        "site": "https://instagram.com/reabilitapetcataguases?utm_medium=copy_link",
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32991112117",
+        "aprovado": true
+    },
+    {
+        "nome": "Clínica Veterinária Toca dos Bichos",
+        "endereco": "R. Joaquim Augusto de Almeida, 135 - Vila Domingos Lopes, Cataguases - MG, 36774-016, Brazil",
+        "telefone": "(34215857)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "Não Informado",
+        "whatsapp": "3234215857",
+        "aprovado": true
+    },
+    {
+        "nome": "Pet House Cataguases",
+        "endereco": "Av. Veríssimo Mendonça, 540 - Beira Rio, Cataguases - MG, 36772-022, Brazil",
+        "telefone": "(998019751)",
+        "site": "https://www.instagram.com/pet_housecataguases?igsh=MTJma3UyYWhhenN5aA==",
+        "avaliacao": 5,
+        "horario": "07:30 as 18:00",
+        "whatsapp": "32998019751",
+        "aprovado": true
+    },
+    {
+        "nome": "Fazendinha Pet Store",
+        "endereco": "Praça José Ignácio Peixoto, 23 - Vila Tereza, Cataguases - MG, 36772-010, Brazil",
+        "telefone": "(34701170)",
+        "site": "https://www.facebook.com/fazendinhapetstore",
+        "avaliacao": 5,
+        "horario": "08:00 as 19:00",
+        "whatsapp": "3234701170",
+        "aprovado": true
+    },
+    {
+        "nome": "A Fazenda Mundo Pet",
+        "endereco": "R. Nogueira Neves, 144 - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(34216138)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234216138",
+        "aprovado": true
+    },
+    {
+        "nome": "Clínica Veterinária Estação Pet Kta",
+        "endereco": "R. Cleto da Rocha, 65 - Centro, Cataguases - MG, 36770-088, Brazil",
+        "telefone": "(999306992)",
+        "site": "https://estacaopetkta.vet.br/",
+        "avaliacao": 4.9,
+        "horario": "08:00 as 17:00",
+        "whatsapp": "32999306992",
+        "aprovado": true
+    },
+    {
+        "nome": "Veterinária Pet SOS Drª Hanna Marotta",
+        "endereco": "R. Ten. Fortunato, 80 - Centro, Cataguases - MG, 36771-000, Brazil",
+        "telefone": "(988822451)",
+        "site": null,
+        "avaliacao": 4.8,
+        "horario": "Não Informado",
+        "whatsapp": "32988822451",
+        "aprovado": true
+    },
+    {
+        "nome": "Clínica Veterinária São Francisco",
+        "endereco": "R. Maj. Viêira, 486 - Centro, Cataguases - MG, 36770-060, Brazil",
+        "telefone": "(34222002)",
+        "site": null,
+        "avaliacao": 4.7,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234222002",
+        "aprovado": true
+    },
+    {
+        "nome": "Central Pet Mais Barato Pet Shop",
+        "endereco": "Praça Gov. Valadares, 213 - Centro, Cataguases - MG, 36770-071, Brazil",
+        "telefone": "(34215865)",
+        "site": null,
+        "avaliacao": 4.7,
+        "horario": "08:00 as 19:00",
+        "whatsapp": "3234215865",
+        "aprovado": true
+    },
+    {
+        "nome": "Casa do Fazendeiro Manoel Tiago - Cantinho Pet Love",
+        "endereco": "R. Valentim Pereira da Rocha, 80 - Centro, Cataguases - MG, 36770-092, Brazil",
+        "telefone": "(34312563)",
+        "site": null,
+        "avaliacao": 4.7,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234312563",
+        "aprovado": true
+    },
+    {
+        "nome": "Vet MV",
+        "endereco": "R. Dr. Norberto Custódio Ferreira, 19 - Vila Domingos Lopes, Cataguases - MG, 36774-032, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 4.7,
+        "horario": "08:00 as 18:00",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Armazém dos Bichos",
+        "endereco": "Av. Veríssimo Mendonça, 365 - Beira Rio, Cataguases - MG, 36772-022, Brazil",
+        "telefone": "(34226145)",
+        "site": null,
+        "avaliacao": 4.7,
+        "horario": "07:00 as 18:00",
+        "whatsapp": "3234226145",
+        "aprovado": true
+    },
+    {
+        "nome": "Clínica Veterinária Amigo Bicho",
+        "endereco": "R. Raimundo de Paula Batista, 47 - Centro, Cataguases - MG, 36770-078, Brazil",
+        "telefone": "(34227458)",
+        "site": null,
+        "avaliacao": 4.6,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234227458",
+        "aprovado": true
+    },
+    {
+        "nome": "CLÍNICA VETERINÁRIA ESPAÇO PET CATAGUASES",
+        "endereco": "Av. Guido Marliere, 486 - Haidée, Cataguases - MG, 36774-104, Brazil",
+        "telefone": "(34215530)",
+        "site": "https://www.facebook.com/espacopetveterinaria/",
+        "avaliacao": 4.6,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234215530",
+        "aprovado": true
+    },
+    {
+        "nome": "Special Dog Pet",
+        "endereco": "R. Cleto da Rocha, 65 - Centro, Cataguases - MG, 36770-088, Brazil",
+        "telefone": "(32022276)",
+        "site": "https://www.instagram.com/specialdogpet/",
+        "avaliacao": 4.6,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3232022276",
+        "aprovado": true
+    },
+    {
+        "nome": "NUTRIMINAS - Panveterinaria Ltda",
+        "endereco": "Rua Dr Norberto C Ferreira, 183 - Vila Domingos Lopes, Cataguases - MG, 36774-032, Brazil",
+        "telefone": "(34211119)",
+        "site": null,
+        "avaliacao": 4.6,
+        "horario": "07:00 as 18:00",
+        "whatsapp": "3234211119",
+        "aprovado": true
+    },
+    {
+        "nome": "Saúde Animal",
+        "endereco": "R. Alfredo Barroso, 35 - Centro, Cataguases - MG, 36770-052, Brazil",
+        "telefone": "(34292796)",
+        "site": null,
+        "avaliacao": 4.5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "3234292796",
+        "aprovado": true
+    },
+    {
+        "nome": "Pet Shop AnimalCenter",
+        "endereco": "R. Dr. Sobral, 387 - Centro, Cataguases - MG, 36770-044, Brazil",
+        "telefone": "(999262575)",
+        "site": "https://linktr.ee/ANIMALCENTERKTA",
+        "avaliacao": 4,
+        "horario": "Não Informado",
+        "whatsapp": "32999262575",
+        "aprovado": true
+    },
+    {
+        "nome": "Clinica amigo Bicho",
+        "endereco": "R. Cleto da Rocha - Centro, Cataguases - MG, 36774-016, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 2.5,
+        "horario": "Não Informado",
+        "whatsapp": null,
+        "aprovado": true
+    }
+]

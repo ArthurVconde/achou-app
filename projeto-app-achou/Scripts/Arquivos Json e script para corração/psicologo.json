@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "Júlia Cabral Mazini - Psicóloga",
+        "endereco": "R. Maj. Viêira, 38 - Sala 107 - Centro, Cataguases - MG, 36770-028, Brazil",
+        "telefone": "(998419007)",
+        "site": "https://www.instagram.com/juliacabralpsicologa/",
+        "avaliacao": 5,
+        "horario": "08:00 as 19:00",
+        "whatsapp": "32998419007",
+        "aprovado": true
+    },
+    {
+        "nome": "Fernanda Resende - Psicóloga Cognitivo-Comportamental (CRP 04/45681)",
+        "endereco": "Praça Rui Barbosa, 170 - Sala 104 - Centro, Cataguases - MG, 36770-030, Brazil",
+        "telefone": "(998431600)",
+        "site": "https://psifernandaresende.com.br/",
+        "avaliacao": 5,
+        "horario": "07:00 as 20:00",
+        "whatsapp": "32998431600",
+        "aprovado": true
+    },
+    {
+        "nome": "Daniela Faria - Psicóloga",
+        "endereco": "Av. Melo Viana, 189 - Centro, Cataguases - MG, 36773-010, Brazil",
+        "telefone": "(988290120)",
+        "site": "http://instagram.com/danifariapsi",
+        "avaliacao": 5,
+        "horario": "01:00 as 19:00",
+        "whatsapp": "32988290120",
+        "aprovado": true
+    },
+    {
+        "nome": "Psicóloga Bianca Medina",
+        "endereco": "Rua Joaquim Peixoto Ramos, 59 - sala 18 - Centro, Cataguases - MG, 36770-066, Brazil",
+        "telefone": null,
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 20:30",
+        "whatsapp": null,
+        "aprovado": true
+    },
+    {
+        "nome": "Darlene Biondo Psi",
+        "endereco": "R. Manoel da Silva Rama, 18 - 201 - Centro, Cataguases - MG, 36770-040, Brazil",
+        "telefone": "(988791798)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "12:00 as 19:00",
+        "whatsapp": "32988791798",
+        "aprovado": true
+    },
+    {
+        "nome": "Psicólogo Reimar Werneck",
+        "endereco": "Edifício Júlia Guimarães - R. Dr. Sobral, 179 - Centro, Cataguases - MG, 36770-044, Brazil",
+        "telefone": "(998244876)",
+        "site": "http://www.instagram.com/psicologoreimarwerneck/",
+        "avaliacao": 5,
+        "horario": "03:00 as 21:00",
+        "whatsapp": "32998244876",
+        "aprovado": true
+    },
+    {
+        "nome": "Psicóloga Laura Ritti",
+        "endereco": "Condomínio do Edifício Rotary - R. Nogueira Neves, 187 - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(991810101)",
+        "site": "https://w.app/consultorioritti",
+        "avaliacao": 5,
+        "horario": "02:00 as 20:00",
+        "whatsapp": "32991810101",
+        "aprovado": true
+    },
+    {
+        "nome": "Luciana Reboredo | Psicóloga Clínica em Cataguases",
+        "endereco": "Av. Humberto Mauro, 203 - sala 3 - Centro, Cataguases - MG, 36773-012, Brazil",
+        "telefone": "(988184626)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "07:00 as 20:00",
+        "whatsapp": "32988184626",
+        "aprovado": true
+    },
+    {
+        "nome": "Psicóloga Emanoella Castro - OELLA DH",
+        "endereco": "R. Dr. Sobral, 347 - Centro, Cataguases - MG, 36770-044, Brazil",
+        "telefone": "(987124880)",
+        "site": "https://instagram.com/emanoellacastro.psi?utm_medium=copy_link",
+        "avaliacao": 5,
+        "horario": "09:00 as 18:00",
+        "whatsapp": "32987124880",
+        "aprovado": true
+    },
+    {
+        "nome": "Lara Raváglia - Psicóloga",
+        "endereco": "Praça Rui Barbosa, 170 - sala 302 - Centro, Cataguases - MG, 36770-034, Brazil",
+        "telefone": "(999758483)",
+        "site": "https://www.instagram.com/psicologalararavaglia/?utm_medium=copy_link",
+        "avaliacao": 5,
+        "horario": "08:00 as 20:00",
+        "whatsapp": "32999758483",
+        "aprovado": true
+    },
+    {
+        "nome": "Mayara Tavares Psicologia",
+        "endereco": "R. Manoel Ramos Trindade, 215 - Centro, Cataguases - MG, 36770-014, Brazil",
+        "telefone": "(984670455)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "09:00 as 20:00",
+        "whatsapp": "32984670455",
+        "aprovado": true
+    },
+    {
+        "nome": "Psicóloga Camilla Duarte Ribeiro Chaves",
+        "endereco": "Condomínio do Edifício Rotary - R. Nogueira Neves, 187 - sala 312 - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(988436247)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 18:00",
+        "whatsapp": "32988436247",
+        "aprovado": true
+    },
+    {
+        "nome": "Ivaldo Neto Psicólogo",
+        "endereco": "Rua Joaquim Peixoto Ramos, 59 - sala 18 - Centro, Cataguases - MG, 36770-066, Brazil",
+        "telefone": "(988662620)",
+        "site": null,
+        "avaliacao": 5,
+        "horario": "08:00 as 21:00",
+        "whatsapp": "32988662620",
+        "aprovado": true
+    },
+    {
+        "nome": "Psicóloga Ludmila Cesário",
+        "endereco": "Praça Rui Barbosa, 170 - sala 105 - Centro, Cataguases - MG, 36770-034, Brazil",
+        "telefone": "(988572882)",
+        "site": "https://www.instagram.com/ludmilacesariopsi/",
+        "avaliacao": 4.8,
+        "horario": "01:30 as 19:30",
+        "whatsapp": "32988572882",
+        "aprovado": true
+    },
+    {
+        "nome": "Psicólogo Alexandre Jorge Rodrigues",
+        "endereco": "R. Francisco Antônio Leonardo, 184 - Haidée, Cataguases - MG, 36774-102, Brazil",
+        "telefone": "(991209898)",
+        "site": null,
+        "avaliacao": 3,
+        "horario": "09:00 as 21:00",
+        "whatsapp": "32991209898",
+        "aprovado": true
+    },
+    {
+        "nome": "Ana Flávia Silva Castro Neto - Psicóloga / Psicanalista",
+        "endereco": "R. Ten. Fortunato - Centro, Cataguases - MG, 36770-038, Brazil",
+        "telefone": "(998011681)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "08:00 as 21:00",
+        "whatsapp": "32998011681",
+        "aprovado": true
+    },
+    {
+        "nome": "Marcelo Sotto - Psicólogo",
+        "endereco": "R. Nogueira Neves, 187 - SALA 505 - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(999351959)",
+        "site": "https://www.instagram.com/psicologomarcelosotto",
+        "avaliacao": 0,
+        "horario": "08:00 as 19:00",
+        "whatsapp": "32999351959",
+        "aprovado": true
+    },
+    {
+        "nome": "Clínica Márcio Justo",
+        "endereco": "R. Dr. Sobral, 445 - Sala 304 - Centro, Cataguases - MG, 36770-044, Brazil",
+        "telefone": "(984509595)",
+        "site": "https://instagram.com/clinica_marcio_psicologo?utm_source=qr&igshid=NGExMmI2YTkyZg==",
+        "avaliacao": 0,
+        "horario": "08:00 as 20:00",
+        "whatsapp": "32984509595",
+        "aprovado": true
+    },
+    {
+        "nome": "Marina Bilig de Aguiar - Psicóloga",
+        "endereco": "Calçadão Shopping - R. Cel. João Duarte, 64 - Sala 107 - Centro, Cataguases - MG, 36770-032, Brazil",
+        "telefone": "(988493183)",
+        "site": "http://lattes.cnpq.br/3468553816375943",
+        "avaliacao": 0,
+        "horario": "08:00 as 20:00",
+        "whatsapp": "32988493183",
+        "aprovado": true
+    },
+    {
+        "nome": "Jhullian Amaral Psicologia Clínica",
+        "endereco": "Condomínio do Edifício Rotary - R. Nogueira Neves, 187 - 5° andar, sala 509 - Centro, Cataguases - MG, 36770-070, Brazil",
+        "telefone": "(984869000)",
+        "site": null,
+        "avaliacao": 0,
+        "horario": "01:00 as 18:00",
+        "whatsapp": "32984869000",
+        "aprovado": true
+    }
+]
