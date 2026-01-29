@@ -16,13 +16,14 @@ https://lista-tele-b22b04b5.base44.app
 ## 📱 Telas do Aplicativo
 
 <p align="center">
-  <img src="projeto app achou/images/home.png" width="250" />
-  <img src="projeto app achou/images/categorias.png" width="250" />
-  <img src="projeto app achou/images/emdestaque.png" width="250" />
-  <img src="projeto app achou/images/detalhes.png" width="250" />
-  <img src="projeto app achou/images/favoritos.png" width="250" />
-  <img src="projeto app achou/images/perfil.png" width="250" />
+  <img src="Images/home.png" width="250" />
+  <img src="Images/categorias.png" width="250" />
+  <img src="Images/emdestaque.png" width="250" />
+  <img src="Images/detalhes.png" width="250" />
+  <img src="Images/favoritos.png" width="250" />
+  <img src="Images/perfil.png" width="250" />
 </p>
+
 ---
 
 ## 🎯 Objetivo do Projeto
